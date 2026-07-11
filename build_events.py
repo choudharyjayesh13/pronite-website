@@ -5,6 +5,7 @@ import json, re, html, os
 ROOT = os.path.dirname(os.path.abspath(__file__))
 embed = json.load(open(f"{ROOT}/data/events-embed.json"))
 posters = json.load(open(f"{ROOT}/data/posters.json"))
+videos = json.load(open(f"{ROOT}/data/videos.json"))
 os.makedirs(f"{ROOT}/events", exist_ok=True)
 
 MONTHS = ["", "January", "February", "March", "April", "May", "June", "July",
@@ -74,7 +75,16 @@ for e in embed:
     venue = venue_of(e)
     paras = clean_content(e["content"]["rendered"])
     body = "\n".join(f"<p>{html.escape(p)}</p>" for p in paras) or "<p>One of the nights that built the Pronite name.</p>"
-    page = (SHELL.replace("{TITLE}", html.escape(title))
+    vids = videos.get(f, [])
+    if vids:
+        blocks = "".join(
+            f'<blockquote class="instagram-media" data-instgrm-permalink="{u}" data-instgrm-version="14" style="max-width:540px;margin:14px auto;width:100%"></blockquote>'
+            for u in vids)
+        video_html = f'<h2 class="vh">Caught on camera</h2>{blocks}<script async src="https://www.instagram.com/embed.js"></script>'
+    else:
+        video_html = ""
+    page = (SHELL.replace("{VIDEOS}", video_html)
+                 .replace("{TITLE}", html.escape(title))
                  .replace("{DATE}", nice).replace("{VENUE}", html.escape(venue))
                  .replace("{IMG}", img or "../assets/icon-512.png")
                  .replace("{BODY}", body))
