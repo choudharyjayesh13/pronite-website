@@ -220,7 +220,6 @@ form.pf{background:#0b0b13cc;backdrop-filter:blur(6px);border:1px solid var(--li
       <a class="btn btn-hot" href="#join">Join the movement</a>
       <a class="btn btn-line" href="#memories">See past nights ↓</a>
     </div>
-    <div class="viewers"><span class="live-dot"></span> <span id="viewers">—</span> people exploring Pronite right now</div>
   </div>
 </header>
 
@@ -571,10 +570,6 @@ document.querySelectorAll('.reveal,.cu').forEach(function(el){io.observe(el);});
   var html=items.map(function(t){return '<span><em>◆</em> '+t+'</span>';}).join('');
   document.getElementById('mtrack').innerHTML=html+html;})();
 
-/* ---- live viewers (session-stable pseudo-live; real GA numbers via GA4) ---- */
-(function(){var base=8+Math.floor((Date.now()/60000)%17);var el=document.getElementById('viewers');
-  function bump(){el.textContent=Math.max(5,base+Math.floor(Math.random()*6-3));}
-  bump();setInterval(bump,4200);})();
 
 /* ---- taste chips ---- */
 document.getElementById('tastes').addEventListener('click',function(e){
