@@ -3274,5 +3274,319 @@
     "source": "https://commons.wikimedia.org/wiki/File:Darjeeling_Himalayan_Railway,toy_train_(1).jpg"
    }
   ]
+ },
+ "mumbai-clubs": {
+  "hero": {
+   "file": "assets/places/mumbai-clubs.jpg",
+   "artist": "Whoeverblocksmeisamotherfu*ker",
+   "license": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Lower_Parel_with_the_Twin_Towers_of_the_Imperial_and_the_Antillia,_The_World%27s_most_expensive_house_in_South_Mumbai.jpg"
+  },
+  "gallery": []
+ },
+ "bengaluru-clubs": {
+  "hero": {
+   "file": "assets/places/bengaluru-clubs.jpg",
+   "artist": "Suraj2610",
+   "license": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Trip_Factory_store_in_Indiranagar,_Bangalore.jpg"
+  },
+  "gallery": [
+   {
+    "file": "assets/places/bengaluru-clubs-g1.jpg",
+    "artist": "Indiranagar Seller",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:BWSSB_Water_Tank_at_Indiranagar,_Hundred_Feet_Road.JPG"
+   },
+   {
+    "file": "assets/places/bengaluru-clubs-g2.jpg",
+    "artist": "Indiranagar Seller",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Indiranagar_Shopping_A_Store_on_Hundred_Feet_Road.JPG"
+   },
+   {
+    "file": "assets/places/bengaluru-clubs-g3.jpg",
+    "artist": "Sangram Keshari Senapati",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Shawarma_Chicken_Roll_at_Indiranagar,_Bangalore,_Karnatak.jpg"
+   }
+  ]
+ },
+ "goa-clubs": {
+  "hero": {
+   "file": "assets/places/goa-clubs.jpg",
+   "artist": "Nikhilb239",
+   "license": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Vagator_pano_26012016.jpg"
+  },
+  "gallery": [
+   {
+    "file": "assets/places/goa-clubs-g1.jpg",
+    "artist": "Nikhilb239",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Vagator_Beach_25012016.jpg"
+   },
+   {
+    "file": "assets/places/goa-clubs-g2.jpg",
+    "artist": "Vyacheslav Argenberg",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Vagator_Beach,_Goa,_India.jpg"
+   },
+   {
+    "file": "assets/places/goa-clubs-g3.jpg",
+    "artist": "Vyacheslav Argenberg",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Vagator,_Goa,_India,_Palm_trees.jpg"
+   }
+  ]
+ },
+ "hyderabad-clubs": {
+  "hero": {
+   "file": "assets/places/hyderabad-clubs.jpg",
+   "artist": "Cephas 405 (talk)",
+   "license": "CC BY-SA 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Jubilee_hills,_Hyderabad_(6_January_2008).jpg"
+  },
+  "gallery": [
+   {
+    "file": "assets/places/hyderabad-clubs-g1.jpg",
+    "artist": "Veera.sj",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Monster_Office_Jubilee_Hills_Hyderabad.jpg"
+   },
+   {
+    "file": "assets/places/hyderabad-clubs-g2.jpg",
+    "artist": "Kavali Chandrakanth KCK",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Rock_Formation_Aerial_View_of_Jubilee_Hills_Hyderabad_Telangana.jpg"
+   },
+   {
+    "file": "assets/places/hyderabad-clubs-g3.jpg",
+    "artist": "Pinakpani",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Cafe_the_Heart_Cup_Coffee_in_Jubilee_Hills,_Hyderabad,_Telangana_04.jpg"
+   }
+  ]
+ },
+ "udaipur-nights-pronite": {
+  "hero": {
+   "file": "assets/places/udaipur-nights-pronite.jpg",
+   "artist": "Koustave",
+   "license": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:City_Palace,_Udaipur_at_night.jpg"
+  },
+  "gallery": [
+   {
+    "file": "assets/places/udaipur-nights-pronite-g1.jpg",
+    "artist": "S Ballal, Ahmedabad",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Udaipur_palace_night.jpg"
+   },
+   {
+    "file": "assets/places/udaipur-nights-pronite-g2.jpg",
+    "artist": "Ashwin Geet Dsa",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Udaipur_City_Palace_at_Night.jpg"
+   },
+   {
+    "file": "assets/places/udaipur-nights-pronite-g3.jpg",
+    "artist": "Advaraut",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Lake_Pichola,_Udaipur_India.jpg"
+   }
+  ]
+ },
+ "bengaluru-cafes": {
+  "hero": {
+   "file": "assets/places/bengaluru-cafes.jpg",
+   "artist": "Saiphani02",
+   "license": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Church_Street_name_board.jpg"
+  },
+  "gallery": [
+   {
+    "file": "assets/places/bengaluru-cafes-g1.jpg",
+    "artist": "Rainie Cherian",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Church_Street_in_night,_Bangalore_(2022).jpg"
+   },
+   {
+    "file": "assets/places/bengaluru-cafes-g2.jpg",
+    "artist": "T. R. Shankar Raman",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Bangalore_Church_street_trees_1.jpg"
+   },
+   {
+    "file": "assets/places/bengaluru-cafes-g3.jpg",
+    "artist": "T. R. Shankar Raman",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Bangalore_Church_street_trees_2.jpg"
+   }
+  ]
+ },
+ "mumbai-irani-cafes": {
+  "hero": {
+   "file": "assets/places/mumbai-irani-cafes.jpg",
+   "artist": "iranichaimumbai",
+   "license": "CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Britannia_irani_cafe.jpg"
+  },
+  "gallery": [
+   {
+    "file": "assets/places/mumbai-irani-cafes-g1.jpg",
+    "artist": "Saurabh Shetty",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Irani_Cafe,_Matunga_-_panoramio.jpg"
+   },
+   {
+    "file": "assets/places/mumbai-irani-cafes-g2.jpg",
+    "artist": "urbzoo",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:The_Irani_cafe_on_the_ground_floor_of_the_building_was_typical_of_such_neighbourhoods._Most_of_them_have_shut_shop_in_the_city_due_to_tempting_real-estate_prices_and_internal_family_differences_on_(3995162874).jpg"
+   },
+   {
+    "file": "assets/places/mumbai-irani-cafes-g3.jpg",
+    "artist": "iranichaimumbai",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Brabourne_Restaurant_%26_bar,_Dhobi_Talao,_Mumbai.jpg"
+   }
+  ]
+ },
+ "delhi-cafes": {
+  "hero": {
+   "file": "assets/places/delhi-cafes.jpg",
+   "artist": "Ravi Dwivedi",
+   "license": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Khan_Market_Metro_Station,_Delhi,_India.jpg"
+  },
+  "gallery": [
+   {
+    "file": "assets/places/delhi-cafes-g1.jpg",
+    "artist": "Varun Shiv Kapur from New Delhi, India",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Khan_Market_Station_entrance_and_Ambassador_Hotel,_New_Delhi.jpg"
+   },
+   {
+    "file": "assets/places/delhi-cafes-g2.jpg",
+    "artist": "Varun Shiv Kapur from New Delhi, India",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Khan_Market_metro_station_entrance,_New_Delhi,_India_-_2011-10-05.jpg"
+   },
+   {
+    "file": "assets/places/delhi-cafes-g3.jpg",
+    "artist": "Geoff Stearns from San Francisco, CA, USA",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Middle_lane,_Khan_Market,_New_Delhi.jpg"
+   }
+  ]
+ },
+ "goa-beach-cafes": {
+  "hero": {
+   "file": "assets/places/goa-beach-cafes.jpg",
+   "artist": "Vyacheslav Argenberg",
+   "license": "CC BY 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Anjuna_Beach,_Goa,_India,_Legendary_Curlies_beach_shack.jpg"
+  },
+  "gallery": [
+   {
+    "file": "assets/places/goa-beach-cafes-g1.jpg",
+    "artist": "Bssasidhar",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Panorama-_Curlies_Beach_shack,_Anjuna,_Goa,_India.jpg"
+   },
+   {
+    "file": "assets/places/goa-beach-cafes-g2.jpg",
+    "artist": "Deepak Patil",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Beach_Shack_Menu_at_Colva_Beach_Goa_-_panoramio.jpg"
+   },
+   {
+    "file": "assets/places/goa-beach-cafes-g3.jpg",
+    "artist": "Vyacheslav Argenberg",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Anjuna_Beach,_Goa,_India,_Legendary_Curlies_beach_shack_in_Anjuna,_late_afternoon.jpg"
+   }
+  ]
+ },
+ "pondicherry-cafes": {
+  "hero": {
+   "file": "assets/places/pondicherry-cafes.jpg",
+   "artist": "iMahesh",
+   "license": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Streets_of_White_town,_Puducherry.jpg"
+  },
+  "gallery": [
+   {
+    "file": "assets/places/pondicherry-cafes-g1.jpg",
+    "artist": "iMahesh",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Windows_of_Pondicherry_-_White_wall,_Green_coloured_window_and_grills_(3).jpg"
+   },
+   {
+    "file": "assets/places/pondicherry-cafes-g2.jpg",
+    "artist": "iMahesh",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Windows_of_Pondicherry_-_White_wall,_Wooden_windows.jpg"
+   },
+   {
+    "file": "assets/places/pondicherry-cafes-g3.jpg",
+    "artist": "iMahesh",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Doors_of_Pondicherry_-_Yellow_walls_and_White_frame.jpg"
+   }
+  ]
+ },
+ "himalayan-cafes": {
+  "hero": {
+   "file": "assets/places/himalayan-cafes.jpg",
+   "artist": "Aslam Kuttayi",
+   "license": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Old_Manali_2.jpg"
+  },
+  "gallery": []
+ },
+ "udaipur-rooftop-cafes": {
+  "hero": {
+   "file": "assets/places/udaipur-rooftop-cafes.jpg",
+   "artist": "Lala Deen Dayal",
+   "license": "Public domain",
+   "source": "https://commons.wikimedia.org/wiki/File:The_city_and_lake_at_Udaipur,_Rajasthan_in_the_1880s.jpg"
+  },
+  "gallery": [
+   {
+    "file": "assets/places/udaipur-rooftop-cafes-g1.jpg",
+    "artist": "Aditi Dhabhai",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Dreamy_sunsets.jpg"
+   }
+  ]
+ },
+ "delhi-clubs": {
+  "hero": {
+   "file": "assets/places/delhi-clubs.jpg",
+   "artist": "Slyronit",
+   "license": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Connaught_Place,_New_Delhi_at_night.jpg"
+  },
+  "gallery": [
+   {
+    "file": "assets/places/delhi-clubs-g1.jpg",
+    "artist": "Slyronit",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Connaught_Place,_B_Block_at_night,_Delhi.jpg"
+   },
+   {
+    "file": "assets/places/delhi-clubs-g2.jpg",
+    "artist": "Supreet Sethi http://supreetsethi.net",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Connaught_place_at_night.jpg"
+   },
+   {
+    "file": "assets/places/delhi-clubs-g3.jpg",
+    "artist": "Rameshng at Malayalam Wikipedia",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Connaught_Place_in_the_nightlight.jpg"
+   }
+  ]
  }
 }

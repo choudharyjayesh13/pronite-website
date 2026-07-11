@@ -12,7 +12,7 @@ UA = "ProniteTravelGuide/1.0 (https://pronite.in; proniteexperience@gmail.com)"
 FORCE = "--force" in sys.argv
 
 PLACES = []
-for m in ("placesdata", "placesdata_b", "placesdata_c", "placesdata_d", "placesdata_e", "placesdata_f", "placesdata_g", "placesdata_h", "placesdata_i"):
+for m in ("placesdata", "placesdata_b", "placesdata_c", "placesdata_d", "placesdata_e", "placesdata_f", "placesdata_g", "placesdata_h", "placesdata_i", "placesdata_j"):
     try:
         PLACES += __import__(m).POSTS
     except ModuleNotFoundError:

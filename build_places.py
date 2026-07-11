@@ -8,7 +8,7 @@ ROOT = os.path.dirname(os.path.abspath(__file__))
 os.makedirs(f"{ROOT}/places", exist_ok=True)
 
 PLACES = []
-for m in ("placesdata", "placesdata_b", "placesdata_c", "placesdata_d", "placesdata_e", "placesdata_f", "placesdata_g", "placesdata_h", "placesdata_i"):
+for m in ("placesdata", "placesdata_b", "placesdata_c", "placesdata_d", "placesdata_e", "placesdata_f", "placesdata_g", "placesdata_h", "placesdata_i", "placesdata_j"):
     try:
         PLACES += __import__(m).POSTS
     except ModuleNotFoundError:

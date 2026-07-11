@@ -11,7 +11,7 @@ IMG_DST = f"{APP}/public/places"
 os.makedirs(IMG_DST, exist_ok=True)
 
 PLACES = []
-for m in ("placesdata", "placesdata_b", "placesdata_c", "placesdata_d", "placesdata_e", "placesdata_f", "placesdata_g", "placesdata_h", "placesdata_i"):
+for m in ("placesdata", "placesdata_b", "placesdata_c", "placesdata_d", "placesdata_e", "placesdata_f", "placesdata_g", "placesdata_h", "placesdata_i", "placesdata_j"):
     PLACES += __import__(m).POSTS
 photos = json.load(open(f"{SRC}/data/place-photos.json"))
 
