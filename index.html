@@ -21,6 +21,21 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Krona+One&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<!-- Pronite platform config: fill these to switch data capture + analytics ON (see SETUP.md) -->
+<script>
+window.PRONITE_CONFIG = {
+  whatsapp: "919116020099",
+  supabaseUrl: "",          // e.g. https://xxxx.supabase.co  (Phase-2 database)
+  supabaseAnonKey: "",      // Supabase anon public key
+  ga4Id: ""                 // e.g. G-XXXXXXXXXX (Google Analytics 4)
+};
+</script>
+<!-- Google Analytics 4 (activates once ga4Id is set) -->
+<script>
+(function(){var g=window.PRONITE_CONFIG&&window.PRONITE_CONFIG.ga4Id;if(!g)return;
+var s=document.createElement('script');s.async=1;s.src='https://www.googletagmanager.com/gtag/js?id='+g;document.head.appendChild(s);
+window.dataLayer=window.dataLayer||[];window.gtag=function(){dataLayer.push(arguments)};gtag('js',new Date());gtag('config',g);})();
+</script>
 <script type="application/ld+json">
 {"@context":"https://schema.org","@type":"Organization","name":"Pronite","url":"https://www.pronite.in","logo":"https://www.pronite.in/assets/icon-192.png","description":"Event production and nightlife collective in Udaipur, Rajasthan — pool parties, techno nights, festivals and private events.","telephone":"+919116020099","email":"proniteexperience@gmail.com","address":{"@type":"PostalAddress","addressLocality":"Udaipur","addressRegion":"Rajasthan","addressCountry":"IN"},"sameAs":["https://www.instagram.com/pronite.in/","https://www.linkedin.com/company/pronite/"],"parentOrganization":{"@type":"Organization","name":"JD Group of Companies","url":"https://www.myjdgroup.com"}}
 </script>
@@ -122,40 +137,143 @@ footer h4{font-size:.72rem;letter-spacing:.22em;text-transform:uppercase;color:v
 footer a{color:var(--dim);text-decoration:none;display:block;padding:3px 0;font-size:.9rem}
 footer a:hover{color:var(--ink)}
 .fine{width:100%;margin-top:26px;padding-top:18px;border-top:1px solid var(--line);color:#5d5a68;font-size:.78rem;display:flex;justify-content:space-between;flex-wrap:wrap;gap:10px}
+/* ===== FUTURISTIC LAYER ===== */
+#fx{position:fixed;inset:0;z-index:0;pointer-events:none}
+nav,.hero,.stats,section,footer,.marquee{position:relative;z-index:1}
+.hero{background:radial-gradient(1200px 700px at 50% -10%,#1a1030 0%,transparent 60%)}
+.hero h1{position:relative}
+.hero h1 em{background:linear-gradient(95deg,var(--coral),var(--violet),var(--amber),var(--coral));background-size:300% 100%;-webkit-background-clip:text;background-clip:text;color:transparent;animation:hue 6s linear infinite}
+@keyframes hue{to{background-position:300% 0}}
+.hero .badge{display:inline-flex;align-items:center;gap:8px;border:1px solid #ffffff1a;background:#ffffff08;border-radius:100px;padding:7px 16px;font-size:.7rem;letter-spacing:.18em;text-transform:uppercase;color:var(--dim);margin-bottom:26px}
+.live-dot{width:7px;height:7px;border-radius:50%;background:#3ee87f;box-shadow:0 0 0 0 #3ee87f;animation:pulse 1.8s infinite}
+@keyframes pulse{0%{box-shadow:0 0 0 0 #3ee87f88}70%{box-shadow:0 0 0 9px #3ee87f00}100%{box-shadow:0 0 0 0 #3ee87f00}}
+/* count-up stats */
+.st b{font-variant-numeric:tabular-nums}
+/* marquee */
+.marquee{overflow:hidden;border-top:1px solid var(--line);border-bottom:1px solid var(--line);background:#0a0a12;padding:16px 0;white-space:nowrap;-webkit-mask-image:linear-gradient(90deg,transparent,#000 8%,#000 92%,transparent)}
+.mtrack{display:inline-block;animation:scroll 26s linear infinite}
+.mtrack span{font-family:'Krona One';font-size:1.05rem;color:#ffffff14;margin:0 26px;letter-spacing:.05em}
+.mtrack span em{font-style:normal;color:var(--coral)}
+@keyframes scroll{to{transform:translateX(-50%)}}
+/* scroll reveal */
+.reveal{opacity:0;transform:translateY(26px);transition:opacity .7s ease,transform .7s ease}
+.reveal.in{opacity:1;transform:none}
+/* JOIN THE MOVEMENT form */
+.join{background:radial-gradient(900px 500px at 80% 0,#2a1140,transparent 55%),radial-gradient(700px 500px at 0 100%,#10233a,transparent 55%),var(--panel);border-top:1px solid var(--line);border-bottom:1px solid var(--line)}
+.joinwrap{display:grid;grid-template-columns:0.85fr 1.15fr;gap:50px;align-items:center}
+@media(max-width:860px){.joinwrap{grid-template-columns:1fr;gap:30px}}
+.joinpitch h2{font-family:'Krona One';font-size:clamp(1.8rem,4.5vw,2.9rem);line-height:1.15;margin-bottom:16px}
+.joinpitch h2 em{font-style:normal;color:var(--coral)}
+.joinpitch p{color:var(--dim);margin-bottom:12px}
+.perks{list-style:none;margin-top:18px}
+.perks li{padding:6px 0;color:var(--ink);font-size:.92rem}
+.perks li::before{content:"✦ ";color:var(--amber)}
+form.pf{background:#0b0b13cc;backdrop-filter:blur(6px);border:1px solid var(--line);border-radius:16px;padding:28px}
+.pf .row{display:grid;grid-template-columns:1fr 1fr;gap:12px}
+@media(max-width:520px){.pf .row{grid-template-columns:1fr}}
+.pf label{display:block;font-size:.68rem;letter-spacing:.14em;text-transform:uppercase;color:var(--dim);margin:12px 0 5px}
+.pf input,.pf select{width:100%;background:#07070b;border:1px solid var(--line);border-radius:8px;padding:11px 13px;color:var(--ink);font-family:inherit;font-size:.92rem;transition:.2s}
+.pf input:focus,.pf select:focus{outline:none;border-color:var(--coral);box-shadow:0 0 0 3px #ff5c4722}
+.pf .tastes{display:flex;flex-wrap:wrap;gap:8px;margin-top:6px}
+.pf .taste{border:1px solid var(--line);border-radius:100px;padding:7px 14px;font-size:.78rem;color:var(--dim);cursor:pointer;user-select:none;transition:.15s}
+.pf .taste.on{border-color:var(--coral);color:var(--ink);background:#ff5c4718}
+.pf .sub{width:100%;margin-top:20px;padding:15px;border:0;border-radius:8px;font-family:inherit;font-weight:700;letter-spacing:.12em;text-transform:uppercase;font-size:.82rem;color:#0a0508;background:linear-gradient(100deg,var(--coral),#ff7a3d);cursor:pointer;transition:.2s}
+.pf .sub:hover{filter:brightness(1.1)}
+.pf .note{font-size:.72rem;color:#5d5a68;margin-top:12px;text-align:center}
+.pf .ok{display:none;text-align:center;padding:30px 10px}
+.pf .ok b{font-family:'Krona One';color:var(--amber);display:block;font-size:1.2rem;margin-bottom:8px}
+.viewers{display:inline-flex;align-items:center;gap:7px;font-size:.74rem;color:var(--dim);margin-top:18px}
 </style>
 </head>
 <body>
+<canvas id="fx"></canvas>
 
 <nav><div class="wrap">
   <a class="logo krona" href="#top">PRO<em>NITE</em></a>
   <div class="nl">
-    <a href="#next">Next Up</a><a href="#memories">Memories</a><a href="#membership">Membership</a><a href="#partners">Partners</a><a href="#about">About</a>
-    <a class="book" href="https://wa.me/919116020099?text=Hi%20Pronite!%20Add%20me%20to%20the%20guest%20list.">Join Guest List</a>
+    <a href="#join">Join</a><a href="#next">Next Up</a><a href="#memories">Memories</a><a href="#membership">Membership</a><a href="#partners">Partners</a><a href="#about">About</a>
+    <a class="book" href="#join">Join Free</a>
   </div>
 </div></nav>
 
 <header class="hero" id="top">
   <div class="glow g1"></div><div class="glow g2"></div>
   <div class="wrap">
-    <div class="kick">Udaipur · Est. 2023</div>
+    <div class="badge"><span class="live-dot"></span> Season 2026–27 loading</div>
     <h1 class="krona">THE NIGHT<br>IS <em>OURS</em></h1>
-    <p>Pronite is Udaipur's nightlife collective — lakeside pool parties, techno takeovers, Bollywood nights and festivals that the city talks about for weeks.</p>
+    <p>Udaipur's nightlife collective — lakeside pool parties, techno takeovers, Bollywood nights and festivals the city talks about for weeks.</p>
     <div class="cta">
-      <a class="btn btn-hot" href="https://wa.me/919116020099?text=Hi%20Pronite!%20Add%20me%20to%20the%20guest%20list.">Join the guest list</a>
+      <a class="btn btn-hot" href="#join">Join the movement</a>
       <a class="btn btn-line" href="#memories">See past nights ↓</a>
     </div>
+    <div class="viewers"><span class="live-dot"></span> <span id="viewers">—</span> people exploring Pronite right now</div>
   </div>
 </header>
 
 <div class="stats"><div class="wrap">
-  <div class="st"><b>22+</b><span>Events produced</span></div>
-  <div class="st"><b>500+</b><span>Guests registered</span></div>
-  <div class="st"><b>5</b><span>Venues</span></div>
-  <div class="st"><b>VH1</b><span>Supersonic collab</span></div>
+  <div class="st"><b class="cu" data-to="22">0</b><span>Events produced</span></div>
+  <div class="st"><b class="cu" data-to="6180" data-suffix="+">0</b><span>Community reach</span></div>
+  <div class="st"><b class="cu" data-to="7">0</b><span>Venues &amp; hotels</span></div>
+  <div class="st"><b class="cu" data-to="15" data-suffix="+">0</b><span>Brands partnered</span></div>
 </div></div>
 
+<div class="marquee"><div class="mtrack" id="mtrack"></div></div>
+
+<section id="join" class="join"><div class="wrap joinwrap">
+  <div class="joinpitch reveal">
+    <div class="kick" style="letter-spacing:.34em;font-size:.68rem;color:var(--coral);text-transform:uppercase">Get on the list</div>
+    <h2>Join the <em>movement</em>.</h2>
+    <p>One list. Every drop. Members hear about every party before it hits Instagram — plus early-bird pricing, birthday perks and VIP entry windows.</p>
+    <ul class="perks">
+      <li>First access to every event &amp; guest list</li>
+      <li>Early-bird ticket windows before public sale</li>
+      <li>Birthday-week entry &amp; surprises</li>
+      <li>Your Pronite ID for the app — one profile, every night</li>
+    </ul>
+  </div>
+  <form class="pf reveal" id="joinForm" novalidate>
+    <div class="fields">
+      <div class="row">
+        <div><label>Full name *</label><input name="name" required autocomplete="name" placeholder="Your name"></div>
+        <div><label>WhatsApp number *</label><input name="phone" required inputmode="tel" autocomplete="tel" placeholder="+91 ..."></div>
+      </div>
+      <div class="row">
+        <div><label>Email</label><input name="email" type="email" autocomplete="email" placeholder="you@email.com"></div>
+        <div><label>Birthday</label><input name="dob" type="date"></div>
+      </div>
+      <div class="row">
+        <div><label>City</label><input name="city" placeholder="Udaipur" value="Udaipur"></div>
+        <div><label>Instagram handle</label><input name="instagram" placeholder="@yourhandle"></div>
+      </div>
+      <div class="row">
+        <div><label>I'm interested in</label>
+          <select name="interest">
+            <option>Guest list &amp; events</option>
+            <option>Pro membership</option>
+            <option>Table / VIP booking</option>
+            <option>Partner / venue collaboration</option>
+            <option>Bulk / group booking</option>
+          </select></div>
+        <div><label>How did you hear about us?</label>
+          <select name="source">
+            <option>Instagram</option><option>A friend</option><option>At an event</option>
+            <option>Google</option><option>The Udaisarovar</option><option>Other</option>
+          </select></div>
+      </div>
+      <label>Your vibe (pick any)</label>
+      <div class="tastes" id="tastes">
+        <span class="taste">Bollywood</span><span class="taste">House</span><span class="taste">Techno</span>
+        <span class="taste">EDM</span><span class="taste">Afro</span><span class="taste">Commercial</span><span class="taste">Sundowners</span>
+      </div>
+      <button type="submit" class="sub">Count me in →</button>
+      <div class="note">No spam. Just the good nights. By joining you agree to hear from Pronite on WhatsApp.</div>
+    </div>
+    <div class="ok" id="joinOk"><b>You're on the list! 🎉</b>See you on the dancefloor. We'll message you before the next drop.</div>
+  </form>
+</div></section>
+
 <section id="next"><div class="wrap">
-  <div class="sh"><div class="kick">Next up</div><h2>Season 2026–27 is in the making</h2></div>
+  <div class="sh reveal"><div class="kick">Next up</div><h2>Season 2026–27 is in the making</h2></div>
   <div class="next">
     <div>
       <h3>Be first on the list.</h3>
@@ -365,6 +483,86 @@ footer a:hover{color:var(--ink)}
 
 <script>
 if('serviceWorker' in navigator){navigator.serviceWorker.register('sw.js').catch(()=>{});}
+var CFG=window.PRONITE_CONFIG||{};
+
+/* ---- particle / ember canvas ---- */
+(function(){
+  var c=document.getElementById('fx'),x=c.getContext('2d'),W,H,parts=[];
+  var COL=['#ff5c47','#8b5cf6','#ffb347'];
+  function size(){W=c.width=innerWidth;H=c.height=innerHeight;}
+  size();addEventListener('resize',size);
+  var N=Math.min(70,Math.floor(innerWidth/22));
+  for(var i=0;i<N;i++)parts.push({x:Math.random()*W,y:Math.random()*H,r:Math.random()*2+.6,
+    vy:-(Math.random()*.4+.12),vx:(Math.random()-.5)*.25,c:COL[i%3],a:Math.random()*.5+.2});
+  function tick(){
+    x.clearRect(0,0,W,H);
+    for(var i=0;i<parts.length;i++){var p=parts[i];p.y+=p.vy;p.x+=p.vx;
+      if(p.y<-10){p.y=H+10;p.x=Math.random()*W;}
+      x.globalAlpha=p.a;x.fillStyle=p.c;x.beginPath();x.arc(p.x,p.y,p.r,0,7);x.fill();}
+    x.globalAlpha=1;requestAnimationFrame(tick);
+  }
+  if(!matchMedia('(prefers-reduced-motion: reduce)').matches)tick();
+})();
+
+/* ---- count-up ---- */
+function countUp(el){var to=+el.dataset.to||0,suf=el.dataset.suffix||'',s=null;
+  function step(t){if(!s)s=t;var p=Math.min((t-s)/1100,1);el.textContent=Math.floor(p*to).toLocaleString('en-IN')+(p===1?suf:'');if(p<1)requestAnimationFrame(step);}
+  requestAnimationFrame(step);}
+
+/* ---- scroll reveal + stat trigger ---- */
+var io=new IntersectionObserver(function(es){es.forEach(function(e){if(e.isIntersecting){
+  e.target.classList.add('in');
+  if(e.target.classList.contains('cu')){countUp(e.target);io.unobserve(e.target);}
+  if(e.target.classList.contains('reveal'))io.unobserve(e.target);
+}})},{threshold:.2});
+document.querySelectorAll('.reveal,.cu').forEach(function(el){io.observe(el);});
+
+/* ---- marquee content ---- */
+(function(){var items=['Bollywood Nite','OFFGRID','Rangilo Holi','VH1 Supersonic','Lakeside Camping','NYE Galas','Techno Takeovers','Sundowners','Pool Parties'];
+  var html=items.map(function(t){return '<span><em>◆</em> '+t+'</span>';}).join('');
+  document.getElementById('mtrack').innerHTML=html+html;})();
+
+/* ---- live viewers (session-stable pseudo-live; real GA numbers via GA4) ---- */
+(function(){var base=8+Math.floor((Date.now()/60000)%17);var el=document.getElementById('viewers');
+  function bump(){el.textContent=Math.max(5,base+Math.floor(Math.random()*6-3));}
+  bump();setInterval(bump,4200);})();
+
+/* ---- taste chips ---- */
+document.getElementById('tastes').addEventListener('click',function(e){
+  if(e.target.classList.contains('taste'))e.target.classList.toggle('on');});
+
+/* ---- form capture: Supabase if configured, always WhatsApp fallback ---- */
+document.getElementById('joinForm').addEventListener('submit',async function(ev){
+  ev.preventDefault();
+  var f=ev.target,fd=new FormData(f);
+  var tastes=[].slice.call(document.querySelectorAll('.taste.on')).map(function(t){return t.textContent;});
+  var lead={name:fd.get('name'),phone:fd.get('phone'),email:fd.get('email'),dob:fd.get('dob'),
+    city:fd.get('city'),instagram:fd.get('instagram'),interest:fd.get('interest'),
+    source:fd.get('source'),tastes:tastes.join(', '),
+    page:location.href,ref:document.referrer||'direct',ts:new Date().toISOString()};
+  if(!lead.name||!lead.phone){alert('Please add your name and WhatsApp number.');return;}
+  if(window.gtag)gtag('event','join_list',{interest:lead.interest,source:lead.source});
+  var saved=false;
+  if(CFG.supabaseUrl&&CFG.supabaseAnonKey){
+    try{
+      var r=await fetch(CFG.supabaseUrl.replace(/\/$/,'')+'/rest/v1/leads',{method:'POST',
+        headers:{'Content-Type':'application/json','apikey':CFG.supabaseAnonKey,'Authorization':'Bearer '+CFG.supabaseAnonKey,'Prefer':'return=minimal'},
+        body:JSON.stringify(lead)});
+      saved=r.ok;
+    }catch(e){}
+  }
+  // always fire a WhatsApp message so no lead is lost even before the DB is live
+  var msg='New Pronite signup%0A'+
+    '%0AName: '+enc(lead.name)+'%0APhone: '+enc(lead.phone)+'%0AEmail: '+enc(lead.email)+
+    '%0ABirthday: '+enc(lead.dob)+'%0ACity: '+enc(lead.city)+'%0AInstagram: '+enc(lead.instagram)+
+    '%0AInterested in: '+enc(lead.interest)+'%0AHeard via: '+enc(lead.source)+'%0AVibe: '+enc(lead.tastes);
+  f.querySelector('.fields').style.display='none';
+  document.getElementById('joinOk').style.display='block';
+  if(!saved){ // open WhatsApp to deliver the lead to Pronite
+    setTimeout(function(){window.open('https://wa.me/'+(CFG.whatsapp||'919116020099')+'?text='+msg,'_blank');},600);
+  }
+  function enc(v){return encodeURIComponent(v||'-');}
+});
 </script>
 </body>
 </html>
