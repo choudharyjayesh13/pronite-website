@@ -69,7 +69,10 @@ article li::before{content:"›";position:absolute;left:2px;color:var(--coral);f
 .side .row:first-of-type{border-top:none}
 .side .row span{display:block;font-size:.64rem;letter-spacing:.13em;text-transform:uppercase;color:var(--amber);margin-bottom:3px}
 .side .row b{font-weight:500;color:#d8d5df}
-.side .mapbtn{display:block;text-align:center;margin-top:16px;padding:13px;border-radius:6px;background:linear-gradient(100deg,var(--coral),#ff7a3d);color:#0a0508;text-decoration:none;font-size:.74rem;letter-spacing:.12em;text-transform:uppercase;font-weight:700}
+.side .pactions{display:grid;gap:8px;margin-top:16px}
+.side .mapbtn{display:block;text-align:center;padding:13px;border-radius:6px;background:linear-gradient(100deg,var(--coral),#ff7a3d);color:#0a0508;text-decoration:none;font-size:.74rem;letter-spacing:.1em;text-transform:uppercase;font-weight:700}
+.side .callbtn{display:block;text-align:center;padding:13px;border-radius:6px;border:1px solid var(--coral);color:var(--ink);text-decoration:none;font-size:.74rem;letter-spacing:.1em;text-transform:uppercase;font-weight:700;transition:.2s}
+.side .callbtn:hover{background:rgba(255,92,71,.12)}
 .side .help{margin-top:14px;font-size:.76rem;color:var(--dim);line-height:1.5}
 .side .help b{color:var(--ink)}
 /* GALLERY */
@@ -133,8 +136,11 @@ footer a{color:#8b8894;text-decoration:none}
   <aside class="side">
     <h3>Plan your visit</h3>
 <div class="row"><span>Timings</span><b>9 AM – 6 PM; light &amp; sound show in the evening</b></div><div class="row"><span>Entry fee</span><b>Approx ₹50 (Indian) / ₹200 (foreign)</b></div><div class="row"><span>Best time to visit</span><b>October–March; stay for the evening light show</b></div><div class="row"><span>Time needed</span><b>Half day (plus ~2.5 hr drive each way)</b></div><div class="row"><span>How to reach</span><b>~85 km north of Udaipur — a popular full-day trip by car</b></div>
-    <a class="mapbtn" href="https://www.google.com/maps/search/?api=1&query=Kumbhalgarh%20Fort%20Kumbhalgarh%20India" target="_blank" rel="noopener">Get directions ↗</a>
-    <p class="help">Travel help: <b>Rajasthan Tourism 1364</b> · India Tourist Helpline <b>1363</b> (toll-free). Timings & fees are indicative — please verify locally before visiting.</p>
+    <div class="pactions">
+      <a class="mapbtn" href="https://www.google.com/maps/dir/?api=1&destination=Kumbhalgarh%20Fort%20Kumbhalgarh%20India" target="_blank" rel="noopener">📍 Google Directions</a>
+      <a class="callbtn" href="tel:+919116020099">📞 Call Pronite</a>
+    </div>
+    <p class="help">Need help planning or booking? <b>Call Pronite +91 91160 20099</b> for assistance. Travel help: Rajasthan Tourism 1364 · India Tourist Helpline 1363. Timings & fees are indicative — verify locally.</p>
   </aside>
 </div>
 <div class="wrap gallery">
