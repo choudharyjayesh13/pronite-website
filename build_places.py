@@ -8,7 +8,7 @@ ROOT = os.path.dirname(os.path.abspath(__file__))
 os.makedirs(f"{ROOT}/places", exist_ok=True)
 
 PLACES = []
-for m in ("placesdata", "placesdata_b", "placesdata_c", "placesdata_d"):
+for m in ("placesdata", "placesdata_b", "placesdata_c", "placesdata_d", "placesdata_e", "placesdata_f", "placesdata_g", "placesdata_h", "placesdata_i"):
     try:
         PLACES += __import__(m).POSTS
     except ModuleNotFoundError:
@@ -98,8 +98,8 @@ for i, p in enumerate(PLACES):
         rh = hero_of(r["slug"])
         rimg = f'<img src="../{rh["file"]}" alt="{html.escape(r["name"])}" loading="lazy">' if rh else f'<div style="height:110px;background:{CAT_GRAD.get(r["cat"],DEF_GRAD)}"></div>'
         rcards += f'<a class="rc" href="{r["slug"]}.html">{rimg}<div><span>{r["cat"]}</span><b>{html.escape(r["name"])}</b></div></a>'
-    mapq = urllib.parse.quote(f"{p['name']} {p['city']} Rajasthan")
-    kws = ", ".join(p.get("tags", []) + [p["name"], p["city"], "Rajasthan", "places to visit", "travel guide"])
+    mapq = urllib.parse.quote(f"{p['name']} {p['city']} India")
+    kws = ", ".join(p.get("tags", []) + [p["name"], p["city"], p["region"], "India", "places to visit", "travel guide"])
     og = f"https://www.pronite.in/{hero['file']}" if hero else "https://www.pronite.in/assets/icon-512.png"
     page = (SHELL
         .replace("{HERO_IMG}", hero_css or "")
@@ -139,13 +139,13 @@ INDEX = f'''<!DOCTYPE html>
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Places to Visit in Rajasthan — {len(PLACES)} Attractions, Forts, Lakes & Temples | Pronite</title>
-<meta name="description" content="A complete guide to the best places to visit in Rajasthan — {len(PLACES)} forts, palaces, lakes, temples, deserts and wildlife parks across Udaipur, Jaipur, Jodhpur, Jaisalmer, Pushkar and beyond. Photos, timings, entry fees and how to reach.">
-<meta name="keywords" content="places to visit Rajasthan, Udaipur tourist places, Jaipur attractions, Jodhpur, Jaisalmer, Rajasthan travel guide, forts of Rajasthan, Pronite">
+<title>Places to Visit in India — {len(PLACES)} Attractions, Forts, Beaches, Food & Nightlife | Pronite</title>
+<meta name="description" content="A complete guide to the best places to visit across India — {len(PLACES)} forts, palaces, lakes, temples, beaches, hill stations, plus the most happening streets, food and nightlife in Delhi, Mumbai, Jaipur, Goa, Varanasi and beyond. Photos, timings, entry fees and how to reach.">
+<meta name="keywords" content="places to visit India, India travel guide, must visit places, happening places India, food streets, nightlife India, Delhi Mumbai Goa Jaipur Varanasi, Pronite">
 <meta name="robots" content="index, follow">
 <link rel="canonical" href="https://www.pronite.in/places/">
-<meta property="og:title" content="Places to Visit in Rajasthan — Pronite Travel Guide">
-<meta property="og:description" content="{len(PLACES)} of Rajasthan's best forts, lakes, palaces, temples and deserts — with photos, timings and travel info.">
+<meta property="og:title" content="Places to Visit in India — Pronite Travel Guide">
+<meta property="og:description" content="{len(PLACES)} of India's best sights, beaches, food streets and nightlife — with photos, timings and travel info.">
 <meta property="og:type" content="website">
 <meta property="og:image" content="https://www.pronite.in/assets/places/city-palace-udaipur.jpg">
 <meta name="theme-color" content="#07070b">
@@ -198,8 +198,8 @@ footer a{{color:#8b8894;text-decoration:none}}
 </div></nav>
 <header class="top"><div class="wrap">
   <span class="eyebrow">Places to Visit</span>
-  <h1>Explore Rajasthan</h1>
-  <p>{len(PLACES)} of the state's most spectacular forts, palaces, lakes, temples, deserts and wildlife — from Udaipur's lakes to Jaisalmer's golden dunes. Real photos, timings, entry fees and how to get there.</p>
+  <h1>Explore India</h1>
+  <p>{len(PLACES)} of India's most spectacular sights — forts, palaces, lakes, temples, beaches and hill stations, plus the most happening streets, food and nightlife from Delhi to Goa to Varanasi. Real photos, timings, entry fees and how to get there.</p>
 </div></header>
 <div class="wrap">
   <div class="filters">{catchips}</div>
@@ -226,9 +226,10 @@ chips.forEach(c=>c.addEventListener('click',()=>{{
 open(f"{ROOT}/places/index.html", "w", encoding="utf-8").write(INDEX)
 
 # ---- homepage teaser (6 marquee picks) + count ----
-picks = [p for p in PLACES if p["slug"] in
-         ("city-palace-udaipur", "amber-fort-jaipur", "mehrangarh-fort-jodhpur",
-          "jaisalmer-fort", "lake-pichola", "ranthambore-national-park")]
+PICK_SLUGS = ["taj-mahal-agra", "gateway-of-india-mumbai", "golden-temple-amritsar",
+              "city-palace-udaipur", "hampi", "baga-calangute-beach-goa"]
+_by_slug = {p["slug"]: p for p in PLACES}
+picks = [_by_slug[s] for s in PICK_SLUGS if s in _by_slug]
 picks = picks or PLACES[:6]
 teaser = "\n".join(card(p, prefix="") for p in picks)
 open(f"{ROOT}/data/places-teaser.html", "w", encoding="utf-8").write(teaser)

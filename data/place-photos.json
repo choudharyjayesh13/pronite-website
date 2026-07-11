@@ -1398,5 +1398,1881 @@
     "source": "https://commons.wikimedia.org/wiki/File:Peintures_murales_ext%C3%A9rieures_(Sneh_Ram_Ladias_Haveli,_Mandawa)_(8429102651).jpg"
    }
   ]
+ },
+ "red-fort-delhi": {
+  "hero": {
+   "file": "assets/places/red-fort-delhi.jpg",
+   "artist": "A.Savin",
+   "license": "FAL",
+   "source": "https://commons.wikimedia.org/wiki/File:Red_Fort_in_Delhi_03-2016_img3.jpg"
+  },
+  "gallery": [
+   {
+    "file": "assets/places/red-fort-delhi-g1.jpg",
+    "artist": "Jakub Hałun",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:20191203_Naubat_Khana,_Red_Fort,_Delhi_0453_6340_DxO.jpg"
+   },
+   {
+    "file": "assets/places/red-fort-delhi-g2.jpg",
+    "artist": "Jakub Hałun",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:20191203_Naubat_Khana,_Red_Fort,_Delhi_0456_6348_DxO.jpg"
+   },
+   {
+    "file": "assets/places/red-fort-delhi-g3.jpg",
+    "artist": "Jakub Hałun",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:20191203_Moti_Masjid,_Red_Fort,_Delhi_0502_6354_DxO.jpg"
+   }
+  ]
+ },
+ "qutub-minar-delhi": {
+  "hero": {
+   "file": "assets/places/qutub-minar-delhi.jpg",
+   "artist": "A.Savin",
+   "license": "FAL",
+   "source": "https://commons.wikimedia.org/wiki/File:Qutub_Minar_in_Delhi_03-2016.jpg"
+  },
+  "gallery": [
+   {
+    "file": "assets/places/qutub-minar-delhi-g1.jpg",
+    "artist": "Syed Sajidul Islam",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:View_of_Qutub_Minar_(1).jpg"
+   },
+   {
+    "file": "assets/places/qutub-minar-delhi-g2.jpg",
+    "artist": "Syed Sajidul Islam",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:View_of_Qutub_Minar_(3).jpg"
+   },
+   {
+    "file": "assets/places/qutub-minar-delhi-g3.jpg",
+    "artist": "Shikhers",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Qutb_Minar_with_Neem_Tree.jpg"
+   }
+  ]
+ },
+ "india-gate-delhi": {
+  "hero": {
+   "file": "assets/places/india-gate-delhi.jpg",
+   "artist": "Subeesh Balan സുഭീഷ് ബാലൻ",
+   "license": "CC BY-SA 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:India_Gate_1_(New_Delhi).jpg"
+  },
+  "gallery": [
+   {
+    "file": "assets/places/india-gate-delhi-g1.jpg",
+    "artist": "A.Savin",
+    "license": "FAL",
+    "source": "https://commons.wikimedia.org/wiki/File:India_Gate_in_New_Delhi_03-2016.jpg"
+   },
+   {
+    "file": "assets/places/india-gate-delhi-g2.jpg",
+    "artist": "Nikhilb239",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:India_Gate,_New_Delhi_from_West.jpg"
+   },
+   {
+    "file": "assets/places/india-gate-delhi-g3.jpg",
+    "artist": "Yann",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:India_Gate,_New_Delhi.jpg"
+   }
+  ]
+ },
+ "humayuns-tomb-delhi": {
+  "hero": {
+   "file": "assets/places/humayuns-tomb-delhi.jpg",
+   "artist": "Muhammad Mahdi Karim",
+   "license": "GFDL 1.2",
+   "source": "https://commons.wikimedia.org/wiki/File:Tomb_of_Humayun,_Delhi.jpg"
+  },
+  "gallery": [
+   {
+    "file": "assets/places/humayuns-tomb-delhi-g1.jpg",
+    "artist": "Naveen R Gowda",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Humayun%27s_Tomb,_Delhi_1.jpg"
+   },
+   {
+    "file": "assets/places/humayuns-tomb-delhi-g2.jpg",
+    "artist": "Jakub Hałun",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:20191205_Afsarwala_Tomb,_Delhi_1051_6789.jpg"
+   },
+   {
+    "file": "assets/places/humayuns-tomb-delhi-g3.jpg",
+    "artist": "Dey.sandip",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Intricate_window_at_Humayun%27s_Tomb,_Delhi.jpg"
+   }
+  ]
+ },
+ "lotus-temple-delhi": {
+  "hero": {
+   "file": "assets/places/lotus-temple-delhi.jpg",
+   "artist": "A.Savin",
+   "license": "FAL",
+   "source": "https://commons.wikimedia.org/wiki/File:Lotus_Temple_in_New_Delhi_03-2016.jpg"
+  },
+  "gallery": [
+   {
+    "file": "assets/places/lotus-temple-delhi-g1.jpg",
+    "artist": "Bijay chaurasia",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Lotus_Temple-Panoroma-Visit_During_WCI_2016-_IMG_6471.jpg"
+   },
+   {
+    "file": "assets/places/lotus-temple-delhi-g2.jpg",
+    "artist": "eclicks_by_bunny",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Lotus_temple_in_Delhi,_India_(2018).jpg"
+   },
+   {
+    "file": "assets/places/lotus-temple-delhi-g3.jpg",
+    "artist": "Abuh98",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:A_view_of_Lotus_Temple,_Kalkaji,_Delhi.jpg"
+   }
+  ]
+ },
+ "chandni-chowk-delhi": {
+  "hero": {
+   "file": "assets/places/chandni-chowk-delhi.jpg",
+   "artist": "Pinakpani",
+   "license": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:State_Bank_of_India,_Chandni_Chowk_branch,_Delhi_04.jpg"
+  },
+  "gallery": [
+   {
+    "file": "assets/places/chandni-chowk-delhi-g1.jpg",
+    "artist": "Pinakpani",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:State_Bank_of_India,_Chandni_Chowk_branch,_Delhi_02.jpg"
+   },
+   {
+    "file": "assets/places/chandni-chowk-delhi-g2.jpg",
+    "artist": "Pinakpani",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:State_Bank_of_India,_Chandni_Chowk_branch,_Delhi_03.jpg"
+   },
+   {
+    "file": "assets/places/chandni-chowk-delhi-g3.jpg",
+    "artist": "Pinakpani",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:State_Bank_of_India,_Chandni_Chowk_branch,_Delhi_01.jpg"
+   }
+  ]
+ },
+ "paranthe-wali-gali-delhi": {
+  "hero": {
+   "file": "assets/places/paranthe-wali-gali-delhi.jpg",
+   "artist": "Sripathroy",
+   "license": "CC0",
+   "source": "https://commons.wikimedia.org/wiki/File:Gali_Paranthe_Wali_2.jpg"
+  },
+  "gallery": [
+   {
+    "file": "assets/places/paranthe-wali-gali-delhi-g1.jpg",
+    "artist": "Sripathroy",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Gali_Paranthe_Wali.jpg"
+   },
+   {
+    "file": "assets/places/paranthe-wali-gali-delhi-g2.jpg",
+    "artist": "Ravi Dwivedi",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Parantha_stuffed_with_dal_in_Paranthe_Wali_Gali,_Delhi,_India.jpg"
+   },
+   {
+    "file": "assets/places/paranthe-wali-gali-delhi-g3.jpg",
+    "artist": "Ravi Dwivedi",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:A_shop_at_Paranthe_Wali_Gali,_Delhi,_India.jpg"
+   }
+  ]
+ },
+ "hauz-khas-village-delhi": {
+  "hero": {
+   "file": "assets/places/hauz-khas-village-delhi.jpg",
+   "artist": "Slyronit",
+   "license": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Golden_Shower_Tree,_Deer_Park,_Hauz_Khas_Village,_Delhi.jpg"
+  },
+  "gallery": [
+   {
+    "file": "assets/places/hauz-khas-village-delhi-g1.jpg",
+    "artist": "Axshazxaf",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:A_view_of_Hauz_Khas_Fort_Complex.jpg"
+   },
+   {
+    "file": "assets/places/hauz-khas-village-delhi-g2.jpg",
+    "artist": "Immanuelle",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Jagannath_Temple,_Hauz_Khas,_Delhi-6.jpg"
+   },
+   {
+    "file": "assets/places/hauz-khas-village-delhi-g3.jpg",
+    "artist": "Immanuelle",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Jagannath_Temple,_Hauz_Khas,_Delhi-7.jpg"
+   }
+  ]
+ },
+ "taj-mahal-agra": {
+  "hero": {
+   "file": "assets/places/taj-mahal-agra.jpg",
+   "artist": "Yann; edited by King of Hearts",
+   "license": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Taj_Mahal,_Agra,_India_edit2.jpg"
+  },
+  "gallery": [
+   {
+    "file": "assets/places/taj-mahal-agra-g1.jpg",
+    "artist": "Muhammad Mahdi Karim, Stitching assisted by Benh",
+    "license": "GFDL 1.2",
+    "source": "https://commons.wikimedia.org/wiki/File:Taj_Mahal_Sunset.jpg"
+   },
+   {
+    "file": "assets/places/taj-mahal-agra-g2.jpg",
+    "artist": "Diego Delso",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:El_Taj_Mahal-Agra_India0023.JPG"
+   },
+   {
+    "file": "assets/places/taj-mahal-agra-g3.jpg",
+    "artist": "Dhirad, picture edited by J. A. Knudsen",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Taj_Mahal_in_March_2004.jpg"
+   }
+  ]
+ },
+ "agra-fort": {
+  "hero": {
+   "file": "assets/places/agra-fort.jpg",
+   "artist": "A.Savin",
+   "license": "FAL",
+   "source": "https://commons.wikimedia.org/wiki/File:Agra_03-2016_14_Agra_Fort.jpg"
+  },
+  "gallery": [
+   {
+    "file": "assets/places/agra-fort-g1.jpg",
+    "artist": "A.Savin",
+    "license": "FAL",
+    "source": "https://commons.wikimedia.org/wiki/File:Agra_03-2016_16_Agra_Fort.jpg"
+   },
+   {
+    "file": "assets/places/agra-fort-g2.jpg",
+    "artist": "Jakub Hałun",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:20191204_Diwan-i-Khas,_Agra_Fort_0945_6642.jpg"
+   },
+   {
+    "file": "assets/places/agra-fort-g3.jpg",
+    "artist": "Jakub Hałun",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:20191204_Diwan-i-Khas,_Agra_Fort_0945_6640.jpg"
+   }
+  ]
+ },
+ "fatehpur-sikri": {
+  "hero": {
+   "file": "assets/places/fatehpur-sikri.jpg",
+   "artist": "Diego Delso",
+   "license": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Fatehpur-Fatehpur_Sikri_India0002.JPG"
+  },
+  "gallery": [
+   {
+    "file": "assets/places/fatehpur-sikri-g1.jpg",
+    "artist": "Diego Delso",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Panch_Mahal-Fatehpur-Fatehpur_Sikri_India0014.JPG"
+   },
+   {
+    "file": "assets/places/fatehpur-sikri-g2.jpg",
+    "artist": "A.Savin",
+    "license": "FAL",
+    "source": "https://commons.wikimedia.org/wiki/File:Fatehpur_Sikri_near_Agra_2016-03_img02.jpg"
+   },
+   {
+    "file": "assets/places/fatehpur-sikri-g3.jpg",
+    "artist": "A.Savin",
+    "license": "FAL",
+    "source": "https://commons.wikimedia.org/wiki/File:Fatehpur_Sikri_near_Agra_2016-03_img09.jpg"
+   }
+  ]
+ },
+ "golden-temple-amritsar": {
+  "hero": {
+   "file": "assets/places/golden-temple-amritsar.jpg",
+   "artist": "This picture has been taken by Oleg Yunakov. Contact e-mail: yunakovgmail.com. Image can be used in accordance with the terms of the СС-BY-SA license. Other photos can be seen here.",
+   "license": "CC BY-SA 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Hamandir_Sahib_(Golden_Temple).jpg"
+  },
+  "gallery": [
+   {
+    "file": "assets/places/golden-temple-amritsar-g1.jpg",
+    "artist": "Paulrudd",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Sikh_pilgrim_at_the_Golden_Temple_(Harmandir_Sahib)_in_Amritsar,_India.jpg"
+   },
+   {
+    "file": "assets/places/golden-temple-amritsar-g2.jpg",
+    "artist": "Dey.sandip",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Harmandir_Sahib,_Amritsar,_India.jpg"
+   },
+   {
+    "file": "assets/places/golden-temple-amritsar-g3.jpg",
+    "artist": "Jasleen Kaur",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Akal_Takht_and_Harmandir_Sahib,_Amritsar,_Punjab,_India.jpg"
+   }
+  ]
+ },
+ "wagah-border-amritsar": {
+  "hero": {
+   "file": "assets/places/wagah-border-amritsar.jpg",
+   "artist": "Eclicks by Bunny",
+   "license": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Attari_-_Wagah_border.jpg"
+  },
+  "gallery": [
+   {
+    "file": "assets/places/wagah-border-amritsar-g1.jpg",
+    "artist": "Guilhem Vellut",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Wagah_border_ceremony2.jpg"
+   },
+   {
+    "file": "assets/places/wagah-border-amritsar-g2.jpg",
+    "artist": "Schüler1000",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Indian_Wagah_Attari_border_arena_-Wagah_-Punjab_-20190605_172115.jpg"
+   },
+   {
+    "file": "assets/places/wagah-border-amritsar-g3.jpg",
+    "artist": "Schüler1000",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Wagah_Attari_border_-Wagah_-Punjab_-20190605_172134.jpg"
+   }
+  ]
+ },
+ "amritsari-food-street": {
+  "hero": {
+   "file": "assets/places/amritsari-food-street.jpg",
+   "artist": "Sumitmalhotra",
+   "license": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Amritsari_Kulcha_at_Monu_Kulcha_Hut.JPG"
+  },
+  "gallery": [
+   {
+    "file": "assets/places/amritsari-food-street-g1.jpg",
+    "artist": "Vipul7229",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Amritsari_kulcha_with_cholle.jpg"
+   },
+   {
+    "file": "assets/places/amritsari-food-street-g2.jpg",
+    "artist": "Manpreet Singh Grover",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Special_Amritsari_kulchas.jpg"
+   },
+   {
+    "file": "assets/places/amritsari-food-street-g3.jpg",
+    "artist": "Vivekvaid",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Amritsari_Kulcha.jpg"
+   }
+  ]
+ },
+ "gateway-of-india-mumbai": {
+  "hero": {
+   "file": "assets/places/gateway-of-india-mumbai.jpg",
+   "artist": "A.Savin",
+   "license": "FAL",
+   "source": "https://commons.wikimedia.org/wiki/File:Mumbai_03-2016_30_Gateway_of_India.jpg"
+  },
+  "gallery": [
+   {
+    "file": "assets/places/gateway-of-india-mumbai-g1.jpg",
+    "artist": "iMahesh",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Commemorative_Inscription_for_the_Landing_of_King_George_V_and_Queen_Mary_at_Gateway_of_India,_1911.jpg"
+   },
+   {
+    "file": "assets/places/gateway-of-india-mumbai-g2.jpg",
+    "artist": "A.Savin",
+    "license": "FAL",
+    "source": "https://commons.wikimedia.org/wiki/File:Mumbai_03-2016_31_Gateway_of_India.jpg"
+   },
+   {
+    "file": "assets/places/gateway-of-india-mumbai-g3.jpg",
+    "artist": "Bernard Gagnon",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Gateway_of_India_-_turret.jpg"
+   }
+  ]
+ },
+ "marine-drive-mumbai": {
+  "hero": {
+   "file": "assets/places/marine-drive-mumbai.jpg",
+   "artist": "A.Savin",
+   "license": "FAL",
+   "source": "https://commons.wikimedia.org/wiki/File:Mumbai_03-2016_46_evening_at_Marine_Drive.jpg"
+  },
+  "gallery": [
+   {
+    "file": "assets/places/marine-drive-mumbai-g1.jpg",
+    "artist": "Dr Vikramjit Kakati",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Marine_Lines_Mumbai_2021.jpg"
+   },
+   {
+    "file": "assets/places/marine-drive-mumbai-g2.jpg",
+    "artist": "Gannu03",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Marine_Drive_Mumbai.jpg"
+   },
+   {
+    "file": "assets/places/marine-drive-mumbai-g3.jpg",
+    "artist": "BroKholi94",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Marine_Drive_of_Mumbai.jpg"
+   }
+  ]
+ },
+ "elephanta-caves-mumbai": {
+  "hero": {
+   "file": "assets/places/elephanta-caves-mumbai.jpg",
+   "artist": "A.Savin",
+   "license": "FAL",
+   "source": "https://commons.wikimedia.org/wiki/File:Thane_Creek_and_Elephanta_Island_03-2016_-_img19_Elephanta_Caves.jpg"
+  },
+  "gallery": [
+   {
+    "file": "assets/places/elephanta-caves-mumbai-g1.jpg",
+    "artist": "A.Savin",
+    "license": "FAL",
+    "source": "https://commons.wikimedia.org/wiki/File:Thane_Creek_and_Elephanta_Island_03-2016_-_img20_Elephanta_Caves.jpg"
+   },
+   {
+    "file": "assets/places/elephanta-caves-mumbai-g2.jpg",
+    "artist": "Vyacheslav Argenberg",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Elephanta_Caves,_India.jpg"
+   },
+   {
+    "file": "assets/places/elephanta-caves-mumbai-g3.jpg",
+    "artist": "Keshuseeker",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:A_seagull_near_Elephanta_Caves,_Mumbai.jpg"
+   }
+  ]
+ },
+ "colaba-causeway-mumbai": {
+  "hero": {
+   "file": "assets/places/colaba-causeway-mumbai.jpg",
+   "artist": "Udaykumar PR",
+   "license": "CC BY 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Colaba_Causeway_-_panoramio_(2).jpg"
+  },
+  "gallery": [
+   {
+    "file": "assets/places/colaba-causeway-mumbai-g1.jpg",
+    "artist": "Udaykumar PR",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Colaba_Causeway,Mumbai_-_panoramio.jpg"
+   },
+   {
+    "file": "assets/places/colaba-causeway-mumbai-g2.jpg",
+    "artist": "Udaykumar PR",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Colaba_Causeway,Mumbai_-_panoramio_(1).jpg"
+   },
+   {
+    "file": "assets/places/colaba-causeway-mumbai-g3.jpg",
+    "artist": "Jose M. Gonsalves (fl. 1826-c.1842)",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Colaba_Causeway_construction,_view_from_Colaba_island,_1826.jpg"
+   }
+  ]
+ },
+ "mohammed-ali-road-mumbai": {
+  "hero": {
+   "file": "assets/places/mohammed-ali-road-mumbai.jpg",
+   "artist": "ruffin_ready's",
+   "license": "CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Mumbai_Minara_Masjid.JPG"
+  },
+  "gallery": [
+   {
+    "file": "assets/places/mohammed-ali-road-mumbai-g1.jpg",
+    "artist": "meenakshi madhavan from New Delhi, india",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Kebabchi_(4976530644).jpg"
+   },
+   {
+    "file": "assets/places/mohammed-ali-road-mumbai-g2.jpg",
+    "artist": "AmanAgrahari01",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Indian_folk_Cuisine_Images.jpg"
+   },
+   {
+    "file": "assets/places/mohammed-ali-road-mumbai-g3.jpg",
+    "artist": "AmanAgrahari01",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Ramzan_Cuisine_(171).jpg"
+   }
+  ]
+ },
+ "bandra-mumbai": {
+  "hero": {
+   "file": "assets/places/bandra-mumbai.jpg",
+   "artist": "Nicholas (Nichalp)",
+   "license": "CC BY-SA 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Bandra_Bandstand.jpg"
+  },
+  "gallery": [
+   {
+    "file": "assets/places/bandra-mumbai-g1.jpg",
+    "artist": "Indian Navy",
+    "license": "GODL-India",
+    "source": "https://commons.wikimedia.org/wiki/File:Indian_Navy_Band_performing_at_Bandstand,_Bandra,_Mumbai_on_30_October_2022_-_02.jpg"
+   },
+   {
+    "file": "assets/places/bandra-mumbai-g2.jpg",
+    "artist": "Indian Navy",
+    "license": "GODL-India",
+    "source": "https://commons.wikimedia.org/wiki/File:Indian_Navy_Band_performing_at_Bandstand,_Bandra,_Mumbai_on_30_October_2022_-_01.jpg"
+   },
+   {
+    "file": "assets/places/bandra-mumbai-g3.jpg",
+    "artist": "Mayur Thakare",
+    "license": "CC BY 2.5",
+    "source": "https://commons.wikimedia.org/wiki/File:Mumbai_Bandstand_Promenade.jpg"
+   }
+  ]
+ },
+ "juhu-beach-mumbai": {
+  "hero": {
+   "file": "assets/places/juhu-beach-mumbai.jpg",
+   "artist": "Shishirdasika",
+   "license": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Juhu_beach_2019.jpg"
+  },
+  "gallery": [
+   {
+    "file": "assets/places/juhu-beach-mumbai-g1.jpg",
+    "artist": "Pinakpani",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Juhu_Beach_in_Mumbai_15.jpg"
+   },
+   {
+    "file": "assets/places/juhu-beach-mumbai-g2.jpg",
+    "artist": "Pinakpani",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Juhu_Beach_in_Mumbai_19.jpg"
+   },
+   {
+    "file": "assets/places/juhu-beach-mumbai-g3.jpg",
+    "artist": "Pinakpani",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Juhu_Beach_in_Mumbai_17.jpg"
+   }
+  ]
+ },
+ "baga-calangute-beach-goa": {
+  "hero": {
+   "file": "assets/places/baga-calangute-beach-goa.jpg",
+   "artist": "Nikhilb239",
+   "license": "CC BY 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Baga_Beach_25012016.jpg"
+  },
+  "gallery": [
+   {
+    "file": "assets/places/baga-calangute-beach-goa-g1.jpg",
+    "artist": "Slyronit",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Baga_Beach,_Goa.jpg"
+   },
+   {
+    "file": "assets/places/baga-calangute-beach-goa-g2.jpg",
+    "artist": "Slyronit",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Panorama_of_Baga_Beach,_Goa.jpg"
+   },
+   {
+    "file": "assets/places/baga-calangute-beach-goa-g3.jpg",
+    "artist": "McKay Savage",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:India_-_Goa_-_010_-_Touristy_Baga_Beach.jpg"
+   }
+  ]
+ },
+ "palolem-beach-goa": {
+  "hero": {
+   "file": "assets/places/palolem-beach-goa.jpg",
+   "artist": "Satyajit Nayak",
+   "license": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Palolem_beach.jpg"
+  },
+  "gallery": [
+   {
+    "file": "assets/places/palolem-beach-goa-g1.jpg",
+    "artist": "Ravi Dwivedi",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Sunloungers_at_Palolem_beach.jpg"
+   },
+   {
+    "file": "assets/places/palolem-beach-goa-g2.jpg",
+    "artist": "iMahesh",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Palolem_Beach,_South_Goa.jpg"
+   },
+   {
+    "file": "assets/places/palolem-beach-goa-g3.jpg",
+    "artist": "Vachary",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Rocks_on_Palolem_Beach_South_Goa.jpg"
+   }
+  ]
+ },
+ "basilica-bom-jesus-goa": {
+  "hero": {
+   "file": "assets/places/basilica-bom-jesus-goa.jpg",
+   "artist": "iMahesh",
+   "license": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Side_Elevation_of_Basilica_of_Bom_Jesus.jpg"
+  },
+  "gallery": [
+   {
+    "file": "assets/places/basilica-bom-jesus-goa-g1.jpg",
+    "artist": "iMahesh",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Front_Elevation_of_Basilica_of_Bom_Jesus.jpg"
+   },
+   {
+    "file": "assets/places/basilica-bom-jesus-goa-g2.jpg",
+    "artist": "iMahesh",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Side_Elevation_of_Basilica_of_Bom_Jesus_(cropped).jpg"
+   },
+   {
+    "file": "assets/places/basilica-bom-jesus-goa-g3.jpg",
+    "artist": "iMahesh",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Basilica_of_Bom_Jesus_and_vehicles_parked_infront.jpg"
+   }
+  ]
+ },
+ "anjuna-flea-market-goa": {
+  "hero": {
+   "file": "assets/places/anjuna-flea-market-goa.jpg",
+   "artist": "Vyacheslav Argenberg",
+   "license": "CC BY 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Anjuna,_Goa,_India,_Anjuna_Flea_Market_2.jpg"
+  },
+  "gallery": [
+   {
+    "file": "assets/places/anjuna-flea-market-goa-g1.jpg",
+    "artist": "Vyacheslav Argenberg",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Anjuna,_Goa,_India,_Anjuna_Flea_Market.jpg"
+   },
+   {
+    "file": "assets/places/anjuna-flea-market-goa-g2.jpg",
+    "artist": "Alexey Komarov",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Anjuna_Flea_Market,_January,_2018-1.jpg"
+   },
+   {
+    "file": "assets/places/anjuna-flea-market-goa-g3.jpg",
+    "artist": "Alexey Komarov",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Anjuna_Flea_Market,_January,_2018-2.jpg"
+   }
+  ]
+ },
+ "shaniwar-wada-pune": {
+  "hero": {
+   "file": "assets/places/shaniwar-wada-pune.jpg",
+   "artist": "Samrudhi shelagaonkar",
+   "license": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Shaniwar_wada_(pune).jpg"
+  },
+  "gallery": [
+   {
+    "file": "assets/places/shaniwar-wada-pune-g1.jpg",
+    "artist": "कल्याणी कोतकर",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Shaniwar_Wada_Clip,_Pune.jpg"
+   },
+   {
+    "file": "assets/places/shaniwar-wada-pune-g2.jpg",
+    "artist": "Jainswatantra",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Family_Tree_of_Peshwas_at_Shaniwar_Wada,_Pune.jpg"
+   },
+   {
+    "file": "assets/places/shaniwar-wada-pune-g3.jpg",
+    "artist": "Jainswatantra",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Information_board_about_Shaniwar_Wada,_Pune.jpg"
+   }
+  ]
+ },
+ "koregaon-park-pune": {
+  "hero": {
+   "file": "assets/places/koregaon-park-pune.jpg",
+   "artist": "DesiBoy101",
+   "license": "CC BY 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:St_Laurn_Hotel,_Koregaon_Park,_Pune.jpg"
+  },
+  "gallery": [
+   {
+    "file": "assets/places/koregaon-park-pune-g1.jpg",
+    "artist": "DesiBoy101",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:St_Laurn_Hotel_in_Koregaon_Park,_Pune.jpg"
+   },
+   {
+    "file": "assets/places/koregaon-park-pune-g2.jpg",
+    "artist": "DesiBoy101",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:O_Hotel,_Koregaon_Park,_Pune.jpg"
+   },
+   {
+    "file": "assets/places/koregaon-park-pune-g3.jpg",
+    "artist": "Alexey Komarov",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Koregaon_Park_Rd,_Pune_2.jpg"
+   }
+  ]
+ },
+ "lalbagh-bengaluru": {
+  "hero": {
+   "file": "assets/places/lalbagh-bengaluru.jpg",
+   "artist": "Gpkp",
+   "license": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Red_Dahlia_flowers,_216th_flower_show_2024,_Lalbagh,_Bangalore_186.jpg"
+  },
+  "gallery": [
+   {
+    "file": "assets/places/lalbagh-bengaluru-g1.jpg",
+    "artist": "Gpkp",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Indian_Independence_day_celebration_216th_flower_show_2024,_Lalbagh,_Bangalore_129.jpg"
+   },
+   {
+    "file": "assets/places/lalbagh-bengaluru-g2.jpg",
+    "artist": "Gpkp",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Indian_Independence_day_celebration_216th_flower_show_2024,_Lalbagh,_Bangalore_35.jpg"
+   },
+   {
+    "file": "assets/places/lalbagh-bengaluru-g3.jpg",
+    "artist": "Gpkp",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Indian_Independence_day_celebration_216th_flower_show_2024,_Lalbagh,_Bangalore_49.jpg"
+   }
+  ]
+ },
+ "bangalore-palace": {
+  "hero": {
+   "file": "assets/places/bangalore-palace.jpg",
+   "artist": "Anupam Chatterjee",
+   "license": "CC BY 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Bangalore_Palace_facade_on_a_cloudy_day.jpg"
+  },
+  "gallery": [
+   {
+    "file": "assets/places/bangalore-palace-g1.jpg",
+    "artist": "Gpkp",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Shringar_Palace,_Palace_grounds,_Bangalore_(2025)_01.jpg"
+   },
+   {
+    "file": "assets/places/bangalore-palace-g2.jpg",
+    "artist": "Gpkp",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Shringar_Palace,_Palace_grounds,_Bangalore_(2025)_14.jpg"
+   },
+   {
+    "file": "assets/places/bangalore-palace-g3.jpg",
+    "artist": "Gpkp",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Shringar_Palace,_Palace_grounds,_Bangalore_(2025)_19.jpg"
+   }
+  ]
+ },
+ "brigade-road-bengaluru": {
+  "hero": {
+   "file": "assets/places/brigade-road-bengaluru.jpg",
+   "artist": "Gpkp",
+   "license": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Brigade_Road,_Bangalore_at_night_(2024)_02.jpg"
+  },
+  "gallery": [
+   {
+    "file": "assets/places/brigade-road-bengaluru-g1.jpg",
+    "artist": "Gpkp",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Brigade_Road,_Bangalore_at_night_(2024)_01.jpg"
+   },
+   {
+    "file": "assets/places/brigade-road-bengaluru-g2.jpg",
+    "artist": "Wilhelm Tell DCCXLVI",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Brigade_Road_facing_MG_Road.jpg"
+   },
+   {
+    "file": "assets/places/brigade-road-bengaluru-g3.jpg",
+    "artist": "Amit",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Brigade_Road_Bangalore.jpg"
+   }
+  ]
+ },
+ "vv-puram-food-street-bengaluru": {
+  "hero": {
+   "file": "assets/places/vv-puram-food-street-bengaluru.jpg",
+   "artist": "Harikrishnan N",
+   "license": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Avarebele_Dose_-_VV_Puram_Food_Street,_Bangalore_-_Karnataka_-_PXL5960.jpg"
+  },
+  "gallery": [
+   {
+    "file": "assets/places/vv-puram-food-street-bengaluru-g1.jpg",
+    "artist": "Harikrishnan N",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Kach_Dabeli_-_VV_Puram_Food_Street,_Bangalore_-_Karnataka_-_PXL5846.jpg"
+   },
+   {
+    "file": "assets/places/vv-puram-food-street-bengaluru-g2.jpg",
+    "artist": "Harikrishnan N",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Pheni_with_Badam_Milk_-_VV_Puram_Food_Street,_Bangalore_-_Karnataka_-_PXL4222.jpg"
+   },
+   {
+    "file": "assets/places/vv-puram-food-street-bengaluru-g3.jpg",
+    "artist": "User:Omshivaprakash",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Paneer_paratha.jpeg"
+   }
+  ]
+ },
+ "commercial-street-bengaluru": {
+  "hero": {
+   "file": "assets/places/commercial-street-bengaluru.jpg",
+   "artist": "Muhammad Mahdi Karim",
+   "license": "GFDL 1.2",
+   "source": "https://commons.wikimedia.org/wiki/File:Dharmaraya_Swamy_Temple_Bangalore_edit1.jpg"
+  },
+  "gallery": [
+   {
+    "file": "assets/places/commercial-street-bengaluru-g1.jpg",
+    "artist": "Rajeev K from Bangalore, India",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Colours_of_Bangalore._Commercial_Street,_Bangalore._(42032485620).jpg"
+   },
+   {
+    "file": "assets/places/commercial-street-bengaluru-g2.jpg",
+    "artist": "Saad Faruque from Bangalore, India",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Commercial_Street,_Bangalore_(7870991636).jpg"
+   },
+   {
+    "file": "assets/places/commercial-street-bengaluru-g3.jpg",
+    "artist": "Saad Faruque from Bangalore, India",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Commercial_Street,_Bangalore_(7870987476).jpg"
+   }
+  ]
+ },
+ "charminar-hyderabad": {
+  "hero": {
+   "file": "assets/places/charminar-hyderabad.jpg",
+   "artist": "DidierTais",
+   "license": "CC BY-SA 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Charminar_Hyderabad_1.jpg"
+  },
+  "gallery": [
+   {
+    "file": "assets/places/charminar-hyderabad-g1.jpg",
+    "artist": "Joydeep",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Charminar_Hyderabad_111.jpg"
+   },
+   {
+    "file": "assets/places/charminar-hyderabad-g2.jpg",
+    "artist": "Joydeep",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Minaret_of_charminar_12032012.jpg"
+   },
+   {
+    "file": "assets/places/charminar-hyderabad-g3.jpg",
+    "artist": "Joydeep",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Charminar_12032013.jpg"
+   }
+  ]
+ },
+ "golconda-fort-hyderabad": {
+  "hero": {
+   "file": "assets/places/golconda-fort-hyderabad.jpg",
+   "artist": "Kuldeepburjbhalaike",
+   "license": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Golconda_Fort,_Hyderabad_(Oct_2025)_-_3.jpg"
+  },
+  "gallery": [
+   {
+    "file": "assets/places/golconda-fort-hyderabad-g1.jpg",
+    "artist": "Kuldeepburjbhalaike",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Ceiling_of_Echo_Dome,_Golconda_Fort_(Oct_2025).jpg"
+   },
+   {
+    "file": "assets/places/golconda-fort-hyderabad-g2.jpg",
+    "artist": "iMahesh",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Golconda_Fort_and_Hyderabad_city.jpg"
+   },
+   {
+    "file": "assets/places/golconda-fort-hyderabad-g3.jpg",
+    "artist": "Sarala04",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Golconda_Fort,_Hyderabad_(80461).jpg"
+   }
+  ]
+ },
+ "laad-bazaar-hyderabad": {
+  "hero": {
+   "file": "assets/places/laad-bazaar-hyderabad.jpg",
+   "artist": "Sissssou",
+   "license": "CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Laad_Bazaar.jpg"
+  },
+  "gallery": [
+   {
+    "file": "assets/places/laad-bazaar-hyderabad-g1.jpg",
+    "artist": "Julia Gross",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Vendor_Laad_Bazaar.jpg"
+   },
+   {
+    "file": "assets/places/laad-bazaar-hyderabad-g2.jpg",
+    "artist": "Julia Gross",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Bangle_shop_Laad_Bazaar_Hyderabad.jpg"
+   },
+   {
+    "file": "assets/places/laad-bazaar-hyderabad-g3.jpg",
+    "artist": "Melissa",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Bridal_store_in_Laad_bazaar_Hyderabad,_India.jpg"
+   }
+  ]
+ },
+ "hyderabad-biryani-food": {
+  "hero": {
+   "file": "assets/places/hyderabad-biryani-food.jpg",
+   "artist": "Dheerajk88",
+   "license": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Chicken_Hyderabadi_Biryani.JPG"
+  },
+  "gallery": [
+   {
+    "file": "assets/places/hyderabad-biryani-food-g1.jpg",
+    "artist": "Ravi Dwivedi",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Hyderabadi_egg_biryani.jpg"
+   },
+   {
+    "file": "assets/places/hyderabad-biryani-food-g2.jpg",
+    "artist": "Abhinaba Basu",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Prawn_Biryani,_Hyderabad.jpg"
+   },
+   {
+    "file": "assets/places/hyderabad-biryani-food-g3.jpg",
+    "artist": "Mahi Tatavarty",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:%22Hyderabadi_Dum_Biryani%22.jpg"
+   }
+  ]
+ },
+ "marina-beach-chennai": {
+  "hero": {
+   "file": "assets/places/marina-beach-chennai.jpg",
+   "artist": "Dey.sandip",
+   "license": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Marina_Beach_in_Chennai.jpg"
+  },
+  "gallery": [
+   {
+    "file": "assets/places/marina-beach-chennai-g1.jpg",
+    "artist": "Dey.sandip",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:MGR_Memorial,_Marina_Beach.jpg"
+   },
+   {
+    "file": "assets/places/marina-beach-chennai-g2.jpg",
+    "artist": "Prahlad lali",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Marina_beach_Chennai_001.jpg"
+   },
+   {
+    "file": "assets/places/marina-beach-chennai-g3.jpg",
+    "artist": "Pinakpani",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Chennai_Lighthouse,_Marina_Beach,_Chennai_06.jpg"
+   }
+  ]
+ },
+ "kapaleeshwarar-temple-chennai": {
+  "hero": {
+   "file": "assets/places/kapaleeshwarar-temple-chennai.jpg",
+   "artist": "Thilip thiru",
+   "license": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Chennai_Kapaleeshwarar_Temple.jpg"
+  },
+  "gallery": [
+   {
+    "file": "assets/places/kapaleeshwarar-temple-chennai-g1.jpg",
+    "artist": "John Hill",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Pilgrims_taking_offerings_to_festival_from_Kapaleeshwarar_Temple,_Chennai._2010.jpg"
+   },
+   {
+    "file": "assets/places/kapaleeshwarar-temple-chennai-g2.jpg",
+    "artist": "John Hill",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Kapaleeshwarar_Temple._Chennai._2010.jpg"
+   },
+   {
+    "file": "assets/places/kapaleeshwarar-temple-chennai-g3.jpg",
+    "artist": "Jaisakthivel unom",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:A_Old_House_at_Kapaleeshwarar_Temple_East_Tank_Street.jpg"
+   }
+  ]
+ },
+ "fort-st-george-chennai": {
+  "hero": {
+   "file": "assets/places/fort-st-george-chennai.jpg",
+   "artist": "L.vivian.richard at English Wikipedia",
+   "license": "Public domain",
+   "source": "https://commons.wikimedia.org/wiki/File:Fort_St._George,_Chennai_2.jpg"
+  },
+  "gallery": [
+   {
+    "file": "assets/places/fort-st-george-chennai-g1.jpg",
+    "artist": "Jan Van Ryne (1712–60); Publisher: Robert Sayer",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Fort_St._George,_Chennai.jpg"
+   },
+   {
+    "file": "assets/places/fort-st-george-chennai-g2.jpg",
+    "artist": "N. Vivekananthamoorthy",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Fort-St-George-Chennai-India-a-Model.jpg"
+   },
+   {
+    "file": "assets/places/fort-st-george-chennai-g3.jpg",
+    "artist": "L.vivian.richard at en.wikipedia",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Fort_St._George,_Chennai_3.jpg"
+   }
+  ]
+ },
+ "t-nagar-chennai": {
+  "hero": {
+   "file": "assets/places/t-nagar-chennai.jpg",
+   "artist": "Ashwin Kumar from Bangalore, India",
+   "license": "CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:T_Nagar_(3469018034).jpg"
+  },
+  "gallery": [
+   {
+    "file": "assets/places/t-nagar-chennai-g1.jpg",
+    "artist": "Arunsarv",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Diwali_Urban_Shopping,_Thiyagaraja_Nagar,_Chennai.jpg"
+   },
+   {
+    "file": "assets/places/t-nagar-chennai-g2.jpg",
+    "artist": "Remi Boissonnas",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Chennai_Shopping.jpg"
+   },
+   {
+    "file": "assets/places/t-nagar-chennai-g3.jpg",
+    "artist": "Arunsarv",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Diwali_Urban_Shopping,_Thiyagaraja_Nagar,_Madras.jpg"
+   }
+  ]
+ },
+ "mysore-palace": {
+  "hero": {
+   "file": "assets/places/mysore-palace.jpg",
+   "artist": "Muhammad Mahdi Karim",
+   "license": "GFDL 1.2",
+   "source": "https://commons.wikimedia.org/wiki/File:Mysore_Palace_Morning.jpg"
+  },
+  "gallery": [
+   {
+    "file": "assets/places/mysore-palace-g1.jpg",
+    "artist": "Hari R",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Mysore_Palace_(1).jpg"
+   },
+   {
+    "file": "assets/places/mysore-palace-g2.jpg",
+    "artist": "Sumit Surai",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Mysore_Palace_Windows.jpg"
+   },
+   {
+    "file": "assets/places/mysore-palace-g3.jpg",
+    "artist": "This photograph was taken by Rijin S and released under the license stated below. You are free to use it for any purpose as long as you credit the author (Rijin S), the Source (Wikimedia Commons), the license (CC-BY-SA 4.0) in close relation to the image and send me a message This image is not public domain. Please respect the copyright protection. It may only be used according to the rules mentioned here. This specifically excludes use in social media, if applicable terms of the licenses listed here not appropriate. Please do not upload an updated image here without consultation with the Author. The author would like to make corrections only at his own source RAW. This ensures that the changes are preserved. If you think that any changes should be required, please inform the author. Otherwise you can upload a new image with a new name. Please use one of the templates derivative or extract. Attribution(required by the license)InfoField© Rijin S/ Wikimedia Commons / CC BY-SA 4.0 InfoField© Rijin S/ Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Mysore_palace_gate.jpg"
+   }
+  ]
+ },
+ "chamundi-hill-mysuru": {
+  "hero": {
+   "file": "assets/places/chamundi-hill-mysuru.jpg",
+   "artist": "Amarrg at en.wikipedia",
+   "license": "CC BY-SA 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Chamundi_Hills_Mysore.jpg"
+  },
+  "gallery": [
+   {
+    "file": "assets/places/chamundi-hill-mysuru-g1.jpg",
+    "artist": "Rohini",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Monsoon_clouds_over_Chamundi_hill.jpg"
+   },
+   {
+    "file": "assets/places/chamundi-hill-mysuru-g2.jpg",
+    "artist": "Gpkp",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Chamundi_Hills_(Image_1),_Mysore,_Karnataka,_India.jpg"
+   },
+   {
+    "file": "assets/places/chamundi-hill-mysuru-g3.jpg",
+    "artist": "Sumit Surai",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Mysore_-_Race_Course_From_Chamundi_Hill.jpg"
+   }
+  ]
+ },
+ "devaraja-market-mysuru": {
+  "hero": {
+   "file": "assets/places/devaraja-market-mysuru.jpg",
+   "artist": "Ingo Mehling",
+   "license": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Mysore_-_Devaraja_Mohalla.jpg"
+  },
+  "gallery": [
+   {
+    "file": "assets/places/devaraja-market-mysuru-g1.jpg",
+    "artist": "Ingo Mehling",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Mysuru_-_Devaraja_Market_Entrance.jpg"
+   },
+   {
+    "file": "assets/places/devaraja-market-mysuru-g2.jpg",
+    "artist": "Schüler1000",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Devaraja_Market_-Mysore_-Karnataka_-20190214_172824.jpg"
+   },
+   {
+    "file": "assets/places/devaraja-market-mysuru-g3.jpg",
+    "artist": "Schüler1000",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Dufferin_Clock_Tower_and_Devaraja_Market_-Mysore_-Karnataka_-20190429_180011.jpg"
+   }
+  ]
+ },
+ "victoria-memorial-kolkata": {
+  "hero": {
+   "file": "assets/places/victoria-memorial-kolkata.jpg",
+   "artist": "DeepanjanGhosh",
+   "license": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Victoria_Memorial_Kolkata_at_night.jpg"
+  },
+  "gallery": [
+   {
+    "file": "assets/places/victoria-memorial-kolkata-g1.jpg",
+    "artist": "Subhrajyoti07",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Victoria_Memorial_situated_in_Kolkata.jpg"
+   },
+   {
+    "file": "assets/places/victoria-memorial-kolkata-g2.jpg",
+    "artist": "Joydeep",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Minto_panel_31012016.jpg"
+   },
+   {
+    "file": "assets/places/victoria-memorial-kolkata-g3.jpg",
+    "artist": "DeepanjanGhosh",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Victoria_Memorial_Illuminated_at_Night.jpg"
+   }
+  ]
+ },
+ "howrah-bridge-kolkata": {
+  "hero": {
+   "file": "assets/places/howrah-bridge-kolkata.jpg",
+   "artist": "Bernard Gagnon",
+   "license": "CC BY-SA 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Howrah_Railway_Station_01.jpg"
+  },
+  "gallery": [
+   {
+    "file": "assets/places/howrah-bridge-kolkata-g1.jpg",
+    "artist": "Dey.sandip",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Howrah_Bridge,_Foggy.jpg"
+   },
+   {
+    "file": "assets/places/howrah-bridge-kolkata-g2.jpg",
+    "artist": "Bernard Gagnon",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Howrah_Bridge_02.jpg"
+   },
+   {
+    "file": "assets/places/howrah-bridge-kolkata-g3.jpg",
+    "artist": "Bernard Gagnon",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Howrah_Railway_Station_02.jpg"
+   }
+  ]
+ },
+ "park-street-kolkata": {
+  "hero": {
+   "file": "assets/places/park-street-kolkata.jpg",
+   "artist": "Biswarup Ganguly",
+   "license": "CC BY 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Park_Street_-_Chowringhee_Crossing_-_Kolkata_2015-02-18_2861.JPG"
+  },
+  "gallery": [
+   {
+    "file": "assets/places/park-street-kolkata-g1.jpg",
+    "artist": "Tonyystarcreations",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Park_Street,_Kolkata,_India.jpg"
+   },
+   {
+    "file": "assets/places/park-street-kolkata-g2.jpg",
+    "artist": "Slyronit",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:The_Hip_Pocket_live_at_Someplace_Else,_The_Park,_Kolkata_09.jpg"
+   },
+   {
+    "file": "assets/places/park-street-kolkata-g3.jpg",
+    "artist": "Slyronit",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:The_Hip_Pocket_live_at_Someplace_Else,_The_Park,_Kolkata_10.jpg"
+   }
+  ]
+ },
+ "dakshineswar-temple-kolkata": {
+  "hero": {
+   "file": "assets/places/dakshineswar-temple-kolkata.jpg",
+   "artist": "Ravi Dwivedi",
+   "license": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Dakshineswar_Kali_Temple,_Dakshineswar,_North_24_Parganas_district,_India.jpg"
+  },
+  "gallery": [
+   {
+    "file": "assets/places/dakshineswar-temple-kolkata-g1.jpg",
+    "artist": "Ravi Dwivedi",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Dakshineswar_Kali_Temple,_North_24_Parganas_district,_India.jpg"
+   },
+   {
+    "file": "assets/places/dakshineswar-temple-kolkata-g2.jpg",
+    "artist": "eclicks_by_bunny",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Dakshineswar_Kali_Temple,_a_navaratna_temple_located_at_Dakshineswar.jpg"
+   },
+   {
+    "file": "assets/places/dakshineswar-temple-kolkata-g3.jpg",
+    "artist": "Ravi Dwivedi",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Inside_the_Dakshineswar_temple_complex,_North_24_Parganas_district,_India.jpg"
+   }
+  ]
+ },
+ "new-market-kolkata": {
+  "hero": {
+   "file": "assets/places/new-market-kolkata.jpg",
+   "artist": "Sudipta Mallick",
+   "license": "CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:New_market_(Esplanade)_Old_hogg_market,_Kolkata_(5376333284).jpg"
+  },
+  "gallery": [
+   {
+    "file": "assets/places/new-market-kolkata-g1.jpg",
+    "artist": "Sudipta Mallick",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:New_market_(Esplanade)_Old_hogg_market,_Kolkata_(5376329266).jpg"
+   },
+   {
+    "file": "assets/places/new-market-kolkata-g2.jpg",
+    "artist": "Sudipta Mallick",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:New_market_(Esplanade)_Old_hogg_market,_Kolkata,_West_Bengal,_India_(5376349198).jpg"
+   },
+   {
+    "file": "assets/places/new-market-kolkata-g3.jpg",
+    "artist": "Sudipta Mallick",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:New_market_(esplanade)_old_hogg_market,_kolkata,_west_bengal,_india_(5376341414).jpg"
+   }
+  ]
+ },
+ "dashashwamedh-ghat-varanasi": {
+  "hero": {
+   "file": "assets/places/dashashwamedh-ghat-varanasi.jpg",
+   "artist": "Maskaravivek",
+   "license": "CC BY-SA 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Dashashwamedh_Ghat%27s_View_Varanasi.jpg"
+  },
+  "gallery": [
+   {
+    "file": "assets/places/dashashwamedh-ghat-varanasi-g1.jpg",
+    "artist": "Sulagna Halder",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:DASHASHWAMEDH_GHAT,_VARANASI.jpg"
+   },
+   {
+    "file": "assets/places/dashashwamedh-ghat-varanasi-g2.jpg",
+    "artist": "Kasyap",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Dashashwamedh_Ghat_Varanasi.jpg"
+   },
+   {
+    "file": "assets/places/dashashwamedh-ghat-varanasi-g3.jpg",
+    "artist": "Matt Stabile",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Dashashwamedh_Ghat,_Varanasi_(8717529552).jpg"
+   }
+  ]
+ },
+ "kashi-vishwanath-varanasi": {
+  "hero": {
+   "file": "assets/places/kashi-vishwanath-varanasi.jpg",
+   "artist": "Ashvin Kaitabhya, clicked by Abhishek Pandey",
+   "license": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Ganga_Dwar,_Gateway_of_Corridor_of_Kashi_Vishwanath_Temple,_Varanasi_2.webp"
+  },
+  "gallery": [
+   {
+    "file": "assets/places/kashi-vishwanath-varanasi-g1.jpg",
+    "artist": "Gannu03",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Shri_Kashi_Vishwanath_Temple_2.jpg"
+   },
+   {
+    "file": "assets/places/kashi-vishwanath-varanasi-g2.jpg",
+    "artist": "Gannu03",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Shri_Kashi_Vishwanath_Temple_7.jpg"
+   },
+   {
+    "file": "assets/places/kashi-vishwanath-varanasi-g3.jpg",
+    "artist": "Ashvin Kaitabhya, clicked by Abhishek Pandey",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Ganga_Dwar,_Gateway_of_Corridor_of_Kashi_Vishwanath_Temple,_Varanasi.webp"
+   }
+  ]
+ },
+ "sarnath-varanasi": {
+  "hero": {
+   "file": "assets/places/sarnath-varanasi.jpg",
+   "artist": "SpeakingArch",
+   "license": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:The_Dhamek_Stupa_,_500_CE_,Sarnath,_Varanasi_Uttar_Pradesh.jpg"
+  },
+  "gallery": [
+   {
+    "file": "assets/places/sarnath-varanasi-g1.jpg",
+    "artist": "SpeakingArch",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Group_of_Votive_Stupas,_Dhamek_Stupa_Complex,_Varanasi.jpg"
+   },
+   {
+    "file": "assets/places/sarnath-varanasi-g2.jpg",
+    "artist": "SpeakingArch",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Site_of_Dhamek_stupa_and_Monastery_Sarnath,_Varanasi_Uttar_Pradesh.jpg"
+   },
+   {
+    "file": "assets/places/sarnath-varanasi-g3.jpg",
+    "artist": "SpeakingArch",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Carvings_on_the_Dhamek_Stupa,_South_Western_side.jpg"
+   }
+  ]
+ },
+ "alleppey-backwaters": {
+  "hero": {
+   "file": "assets/places/alleppey-backwaters.jpg",
+   "artist": "Paul Arps from The Netherlands",
+   "license": "CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Houseboat_on_Alleppey_backwaters_(Kerala,_India_2023)_(52704577484).jpg"
+  },
+  "gallery": [
+   {
+    "file": "assets/places/alleppey-backwaters-g1.jpg",
+    "artist": "Paul Arps from The Netherlands",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Houseboat_on_Alleppey_backwaters_(Kerala,_India_2023)_(52704323376).jpg"
+   },
+   {
+    "file": "assets/places/alleppey-backwaters-g2.jpg",
+    "artist": "Paul Arps from The Netherlands",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Houseboat_on_Alleppey_backwaters_(Kerala,_India_2023)_(52703799562).jpg"
+   },
+   {
+    "file": "assets/places/alleppey-backwaters-g3.jpg",
+    "artist": "Paul Arps from The Netherlands",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Houseboat_on_Alleppey_backwaters_(Kerala,_India_2023)_(52703799667).jpg"
+   }
+  ]
+ },
+ "munnar-kerala": {
+  "hero": {
+   "file": "assets/places/munnar-kerala.jpg",
+   "artist": "Ingo Mehling",
+   "license": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Munnar_-_Tea_Plantations.jpg"
+  },
+  "gallery": [
+   {
+    "file": "assets/places/munnar-kerala-g1.jpg",
+    "artist": "Ingo Mehling",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Munnar_-_Lockhart_tea_plantation.jpg"
+   },
+   {
+    "file": "assets/places/munnar-kerala-g2.jpg",
+    "artist": "Wikimedia Commons",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Munnar_tea_gardens.jpg"
+   },
+   {
+    "file": "assets/places/munnar-kerala-g3.jpg",
+    "artist": "Ingo Mehling",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Mattupetty_Lake_View.jpg"
+   }
+  ]
+ },
+ "fort-kochi-kerala": {
+  "hero": {
+   "file": "assets/places/fort-kochi-kerala.jpg",
+   "artist": "Ingo Mehling",
+   "license": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Chinese_Fishing_Nets_-_2.jpg"
+  },
+  "gallery": [
+   {
+    "file": "assets/places/fort-kochi-kerala-g1.jpg",
+    "artist": "Ingo Mehling",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Chinese_Fishing_Nets_-_3.jpg"
+   },
+   {
+    "file": "assets/places/fort-kochi-kerala-g2.jpg",
+    "artist": "Ingo Mehling",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Chinese_Fishing_Nets_-_4.jpg"
+   },
+   {
+    "file": "assets/places/fort-kochi-kerala-g3.jpg",
+    "artist": "Challiyil Eswaramangalath Vipin from Chalakudy, India",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Chinese_fishingnet_kochi.jpg"
+   }
+  ]
+ },
+ "rishikesh": {
+  "hero": {
+   "file": "assets/places/rishikesh.jpg",
+   "artist": "Nittu Gogoi",
+   "license": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Peaceful_and_spiritual_destination_on_the_banks_of_the_sacred_River_Ganga.jpg"
+  },
+  "gallery": []
+ },
+ "shimla-mall-road": {
+  "hero": {
+   "file": "assets/places/shimla-mall-road.jpg",
+   "artist": "Laluttam",
+   "license": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:The_Ridge-_Shimla.jpg"
+  },
+  "gallery": [
+   {
+    "file": "assets/places/shimla-mall-road-g1.jpg",
+    "artist": "Biswarup Ganguly",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Ridge_and_Mall_Road_-_Scandal_Point_-_Shimla_2014-05-07_1199.JPG"
+   },
+   {
+    "file": "assets/places/shimla-mall-road-g2.jpg",
+    "artist": "Biswarup Ganguly",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Mall_Road_-_Ridge_-_Shimla_2014-05-07_1156-1160_Compress.JPG"
+   },
+   {
+    "file": "assets/places/shimla-mall-road-g3.jpg",
+    "artist": "Biswarup Ganguly",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Mall_Road_and_Kali_Bari_Road_-_Scandal_Point_-_Shimla_2014-05-07_1192.JPG"
+   }
+  ]
+ },
+ "manali-solang": {
+  "hero": {
+   "file": "assets/places/manali-solang.jpg",
+   "artist": "Harvinder Chandigarh",
+   "license": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Solang_Valley_,Paragliding_view,_Manali,_Himachal_Pardes,india.JPG"
+  },
+  "gallery": [
+   {
+    "file": "assets/places/manali-solang-g1.jpg",
+    "artist": "Harvinder Chandigarh",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Solang_Valley_,Manali,_Himachal_Pardes,_India.JPG"
+   },
+   {
+    "file": "assets/places/manali-solang-g2.jpg",
+    "artist": "Madhumita Das",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Paragliders_at_Solang_Valley,_Manali.jpg"
+   },
+   {
+    "file": "assets/places/manali-solang-g3.jpg",
+    "artist": "Jishnu2602",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Solang_Valley_Manali.JPG"
+   }
+  ]
+ },
+ "hampi": {
+  "hero": {
+   "file": "assets/places/hampi.jpg",
+   "artist": "Dey.sandip",
+   "license": "CC BY-SA 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Krishna_Pushkarani_-_Hampi_Ruins.jpg"
+  },
+  "gallery": [
+   {
+    "file": "assets/places/hampi-g1.jpg",
+    "artist": "Vyacheslav Argenberg",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Hampi,_India,_Rocky_landscape_of_Hampi,_Granite_rocks_of_Matanga_Hill.jpg"
+   },
+   {
+    "file": "assets/places/hampi-g3.jpg",
+    "artist": "Vyacheslav Argenberg",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Hampi,_India,_Temple_on_top_of_Matanga_Hill.jpg"
+   }
+  ]
+ },
+ "khajuraho-temples": {
+  "hero": {
+   "file": "assets/places/khajuraho-temples.jpg",
+   "artist": "Marcin Białek",
+   "license": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Khajuraho_Dulhadeo_2010.jpg"
+  },
+  "gallery": [
+   {
+    "file": "assets/places/khajuraho-temples-g1.jpg",
+    "artist": "User:Ggia",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:20120303_zoophilia_Lakshmana_Temple_Khajuraho_India_(panoramic_version).jpg"
+   },
+   {
+    "file": "assets/places/khajuraho-temples-g2.jpg",
+    "artist": "Dey.sandip",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Homosexuality_in_Khajuraho_sculpture.jpg"
+   },
+   {
+    "file": "assets/places/khajuraho-temples-g3.jpg",
+    "artist": "Rajenver",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Shantinath_Jain_Temple,_Khajuraho_India.JPG"
+   }
+  ]
+ },
+ "mahabalipuram": {
+  "hero": {
+   "file": "assets/places/mahabalipuram.jpg",
+   "artist": "Vyacheslav Argenberg",
+   "license": "CC BY 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Mamallapuram,_Shore_Temple,_India.jpg"
+  },
+  "gallery": [
+   {
+    "file": "assets/places/mahabalipuram-g1.jpg",
+    "artist": "Bernard Gagnon",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Shore_Temple_01.jpg"
+   },
+   {
+    "file": "assets/places/mahabalipuram-g2.jpg",
+    "artist": "Vyacheslav Argenberg",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Mamallapuram,_Mahabalipuram,_Shore_Temple,_India.jpg"
+   },
+   {
+    "file": "assets/places/mahabalipuram-g3.jpg",
+    "artist": "Vyacheslav Argenberg",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Mamallapuram,_Mahabalipuram,_Shore_Temple,_Interior,_India.jpg"
+   }
+  ]
+ },
+ "ellora-caves": {
+  "hero": {
+   "file": "assets/places/ellora-caves.jpg",
+   "artist": "Rohit Sharma",
+   "license": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Courtyard_and_Mahabharata_Reliefs_at_the_Kailasa_Temple,_Ellora_01.jpg"
+  },
+  "gallery": [
+   {
+    "file": "assets/places/ellora-caves-g1.jpg",
+    "artist": "Vyacheslav Argenberg",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Ellora_Caves,_India,_Pillars_at_Kailasa_Temple.jpg"
+   },
+   {
+    "file": "assets/places/ellora-caves-g2.jpg",
+    "artist": "Vyacheslav Argenberg",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Ellora_Caves,_India,_Pillars_at_Kailasa_Temple_2.jpg"
+   },
+   {
+    "file": "assets/places/ellora-caves-g3.jpg",
+    "artist": "K.Venkataramana",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Small_temple_in_side_the_Kailasa_Temple,_Ellora,_cave_(16).jpg"
+   }
+  ]
+ },
+ "ajanta-caves": {
+  "hero": {
+   "file": "assets/places/ajanta-caves.jpg",
+   "artist": "SpeakingArch",
+   "license": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Fresco_of_Vajrapani,_Cave_1,_Ajanta_Caves,_Aurangabad_Maharashtra.jpg"
+  },
+  "gallery": [
+   {
+    "file": "assets/places/ajanta-caves-g1.jpg",
+    "artist": "SpeakingArch",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Ceiling_Art,_Cave_1_Ajanta_Caves_Aurangabad_Maharashtra.jpg"
+   },
+   {
+    "file": "assets/places/ajanta-caves-g2.jpg",
+    "artist": "Natasha Khaitan",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Vessantara_Jataka_-_Ajanta_Caves_XVII.jpg"
+   },
+   {
+    "file": "assets/places/ajanta-caves-g3.jpg",
+    "artist": "Santhosh Sundar",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Paintings_of_Ajanta_Caves.jpg"
+   }
+  ]
+ },
+ "pondicherry-french-quarter": {
+  "hero": {
+   "file": "assets/places/pondicherry-french-quarter.jpg",
+   "artist": "iMahesh",
+   "license": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Windows_of_Pondicherry_-_White_wall,_Green_coloured_window_and_grills_(3).jpg"
+  },
+  "gallery": []
+ },
+ "rann-of-kutch": {
+  "hero": {
+   "file": "assets/places/rann-of-kutch.jpg",
+   "artist": "Superfast1111",
+   "license": "CC BY-SA 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Rann_of_Kutch_-_White_Desert_2.jpg"
+  },
+  "gallery": [
+   {
+    "file": "assets/places/rann-of-kutch-g1.jpg",
+    "artist": "Prof Ranga Sai",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:White_salt_desert_at_Rann_of_Kutch.jpg"
+   },
+   {
+    "file": "assets/places/rann-of-kutch-g2.jpg",
+    "artist": "Ranjith Kumar Inbasekaran",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:The_White_Desert_in_Kutch,_the_great_rann_of_kutch.jpg"
+   },
+   {
+    "file": "assets/places/rann-of-kutch-g3.jpg",
+    "artist": "Superfast1111",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Rann_of_Kutch_-_White_Desert.jpg"
+   }
+  ]
+ },
+ "statue-of-unity-gujarat": {
+  "hero": {
+   "file": "assets/places/statue-of-unity-gujarat.jpg",
+   "artist": "Snehrashmi",
+   "license": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Statue_of_Unity.jpg"
+  },
+  "gallery": [
+   {
+    "file": "assets/places/statue-of-unity-gujarat-g1.jpg",
+    "artist": "Prime Minister's Office",
+    "license": "GODL-India",
+    "source": "https://commons.wikimedia.org/wiki/File:Statue_of_Unity,_as_dedicated_on_October_31,_2018_(cropped).jpg"
+   },
+   {
+    "file": "assets/places/statue-of-unity-gujarat-g2.jpg",
+    "artist": "Janub.9",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Statue_of_Unity.png"
+   },
+   {
+    "file": "assets/places/statue-of-unity-gujarat-g3.jpg",
+    "artist": "Sagardhangar007",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Statue_of_Unity_-Sardar_Sarovar_Dam,_Kevadia-Gujarat_-DSC_0003.jpg"
+   }
+  ]
+ },
+ "konark-sun-temple": {
+  "hero": {
+   "file": "assets/places/konark-sun-temple.jpg",
+   "artist": "Joydeep",
+   "license": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:13th_Century_sculptures_at_Konark_Sun_Temple_Puri_district,_Odisha,_India.jpg"
+  },
+  "gallery": [
+   {
+    "file": "assets/places/konark-sun-temple-g1.jpg",
+    "artist": "Joydeep",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:13th_Century_stone_curvings_at_Konark_Sun_Temple_Puri_district,_Odisha,_India.jpg"
+   },
+   {
+    "file": "assets/places/konark-sun-temple-g2.jpg",
+    "artist": "Joydeep",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Wheel_engraved_in_the_13th_century_built_Konark_Sun_Temple_in_Orissa,_India.jpg"
+   },
+   {
+    "file": "assets/places/konark-sun-temple-g3.jpg",
+    "artist": "Joydeep",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:13th_Century_stone_curvings_at_Konark_Sun_Temple_Puri_district,_Odisha,_India_5.jpg"
+   }
+  ]
+ },
+ "radhanagar-beach-andaman": {
+  "hero": {
+   "file": "assets/places/radhanagar-beach-andaman.jpg",
+   "artist": "Vyacheslav Argenberg",
+   "license": "CC BY 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Havelock_Island,_Radhanagar_Beach,_tropical_bliss,_Andaman_Islands.jpg"
+  },
+  "gallery": [
+   {
+    "file": "assets/places/radhanagar-beach-andaman-g1.jpg",
+    "artist": "La Vacanza Travel Private Limited",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Radhanagar_Beach_in_the_Havelock,_Andaman_and_Nicobar_Islands.jpg"
+   },
+   {
+    "file": "assets/places/radhanagar-beach-andaman-g2.jpg",
+    "artist": "La Vacanza Travel Private Limited",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Beautiful_Radhanagar_Beach_in_the_Havelock,_Andaman_and_Nicobar_Islands.jpg"
+   },
+   {
+    "file": "assets/places/radhanagar-beach-andaman-g3.jpg",
+    "artist": "Vyacheslav Argenberg",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Havelock_Island,_Radhanagar_Beach_before_sunset,_Andaman_Islands.jpg"
+   }
+  ]
+ },
+ "tito-lane-goa": {
+  "hero": {
+   "file": "assets/places/tito-lane-goa.jpg",
+   "artist": "Slyronit",
+   "license": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Glow_sticks_on_Baga_beach_at_night.jpg"
+  },
+  "gallery": [
+   {
+    "file": "assets/places/tito-lane-goa-g1.jpg",
+    "artist": "Saptarshi Bagchi",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Baga_Beach,_Goa_at_night_-_panoramio.jpg"
+   }
+  ]
+ },
+ "darjeeling": {
+  "hero": {
+   "file": "assets/places/darjeeling.jpg",
+   "artist": "Syed Sajidul Islam",
+   "license": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Darjeeling_Himalayan_Railway,toy_train_(8).jpg"
+  },
+  "gallery": [
+   {
+    "file": "assets/places/darjeeling-g1.jpg",
+    "artist": "Syed Sajidul Islam",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Darjeeling_Himalayan_Railway,toy_train_(9).jpg"
+   },
+   {
+    "file": "assets/places/darjeeling-g2.jpg",
+    "artist": "Syed Sajidul Islam",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Darjeeling_Himalayan_Railway,toy_train_(2).jpg"
+   },
+   {
+    "file": "assets/places/darjeeling-g3.jpg",
+    "artist": "Syed Sajidul Islam",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Darjeeling_Himalayan_Railway,toy_train_(1).jpg"
+   }
+  ]
  }
 }

@@ -11,7 +11,7 @@ IMG_DST = f"{APP}/public/places"
 os.makedirs(IMG_DST, exist_ok=True)
 
 PLACES = []
-for m in ("placesdata", "placesdata_b", "placesdata_c", "placesdata_d"):
+for m in ("placesdata", "placesdata_b", "placesdata_c", "placesdata_d", "placesdata_e", "placesdata_f", "placesdata_g", "placesdata_h", "placesdata_i"):
     PLACES += __import__(m).POSTS
 photos = json.load(open(f"{SRC}/data/place-photos.json"))
 
@@ -53,7 +53,7 @@ for p in PLACES:
         "excerpt": p["excerpt"],
         "info": p.get("info", {}),
         "tags": p.get("tags", []),
-        "mapQuery": f"{p['name']} {p['city']} Rajasthan",
+        "mapQuery": f"{p['name']} {p['city']} India",
         "hero": rel(ph.get("hero")),
         "gallery": [rel(g) for g in ph.get("gallery", []) if g],
         "body": parse_body(p["body"]),

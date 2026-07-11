@@ -12,7 +12,7 @@ UA = "ProniteTravelGuide/1.0 (https://pronite.in; proniteexperience@gmail.com)"
 FORCE = "--force" in sys.argv
 
 PLACES = []
-for m in ("placesdata", "placesdata_b", "placesdata_c", "placesdata_d"):
+for m in ("placesdata", "placesdata_b", "placesdata_c", "placesdata_d", "placesdata_e", "placesdata_f", "placesdata_g", "placesdata_h", "placesdata_i"):
     try:
         PLACES += __import__(m).POSTS
     except ModuleNotFoundError:
@@ -24,11 +24,21 @@ if os.path.exists(CREDITS_PATH):
 
 BAD = re.compile(r'(map|locator|coat|flag|logo|icon|seal|diagram|plan_of|\.svg|\.pdf|\.tif|panorama_of_india)', re.I)
 
+def _get(url, timeout, tries=4):
+    last = None
+    for i in range(tries):
+        try:
+            req = urllib.request.Request(url, headers={"User-Agent": UA})
+            return urllib.request.urlopen(req, timeout=timeout)
+        except Exception as e:
+            last = e
+            time.sleep(2 * (i + 1))  # backoff on rate-limit / transient errors
+    raise last
+
 def api(params):
     params.update({"action": "query", "format": "json"})
     url = "https://commons.wikimedia.org/w/api.php?" + urllib.parse.urlencode(params)
-    req = urllib.request.Request(url, headers={"User-Agent": UA})
-    with urllib.request.urlopen(req, timeout=40) as r:
+    with _get(url, 40) as r:
         return json.load(r)
 
 def clean(s):
@@ -63,8 +73,7 @@ def search_images(query, want):
     return out
 
 def download(url, path):
-    req = urllib.request.Request(url, headers={"User-Agent": UA})
-    with urllib.request.urlopen(req, timeout=60) as r:
+    with _get(url, 60) as r:
         data = r.read()
     open(path, "wb").write(data)
     return len(data)
