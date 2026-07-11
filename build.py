@@ -49,5 +49,13 @@ except FileNotFoundError:
     teaser, count = "", "100+"
 page = page.replace("<!--BLOG_TEASER-->", teaser)
 page = page.replace("<!--BLOG_COUNT-->", count)
+# places teaser (built by build_places.py — run that first)
+try:
+    pteaser = open(f"{ROOT}/data/places-teaser.html", encoding="utf-8").read()
+    pcount = open(f"{ROOT}/data/place-count.txt").read().strip()
+except FileNotFoundError:
+    pteaser, pcount = "", "50+"
+page = page.replace("<!--PLACES_TEASER-->", pteaser)
+page = page.replace("<!--PLACE_COUNT-->", pcount)
 open(f"{ROOT}/index.html", "w", encoding="utf-8").write(page)
 print(f"built index.html with {len(cards)} poster cards")
