@@ -8,7 +8,7 @@ ROOT = os.path.dirname(os.path.abspath(__file__))
 os.makedirs(f"{ROOT}/places", exist_ok=True)
 
 PLACES = []
-for m in ("placesdata", "placesdata_b", "placesdata_c", "placesdata_d", "placesdata_e", "placesdata_f", "placesdata_g", "placesdata_h", "placesdata_i", "placesdata_j"):
+for m in ("placesdata", "placesdata_b", "placesdata_c", "placesdata_d", "placesdata_e", "placesdata_f", "placesdata_g", "placesdata_h", "placesdata_i", "placesdata_j", "placesdata_k"):
     try:
         PLACES += __import__(m).POSTS
     except ModuleNotFoundError:
@@ -26,6 +26,9 @@ CAT_GRAD = {
   "Wildlife":      "linear-gradient(135deg,#0a1607,#2f4a12 60%,#8fd02f)",
   "Desert":        "linear-gradient(135deg,#241a06,#7a5a10 60%,#ffcf47)",
   "Heritage Site": "linear-gradient(135deg,#1a0f22,#4a2d5a 60%,#c46bff)",
+  "Luxury Stay":   "linear-gradient(135deg,#241a06,#6b4f12 55%,#f6e27a)",
+  "Club":          "linear-gradient(135deg,#210a1e,#5a1148 60%,#ff4fb0)",
+  "Café":          "linear-gradient(135deg,#1a1206,#5a3d10 60%,#e0a85c)",
 }
 DEF_GRAD = "linear-gradient(135deg,#14141f,#26263a)"
 
@@ -54,8 +57,9 @@ def card(p, prefix=""):
         media = f'<img src="{prefix}{hero["file"]}" alt="{html.escape(p["name"])}, {html.escape(p["city"])}" loading="lazy">'
     else:
         media = f'<div class="swatch" style="background:{grad}"></div>'
-    return f'''<a class="pcard" data-cat="{p['cat']}" data-region="{p['region']}" href="{prefix}places/{p['slug']}.html">
-  <div class="pcard-media">{media}</div>
+    vtag = '<span class="pcard-verified">✦ Pronite Verified</span>' if p.get("verified") else ''
+    return f'''<a class="pcard" data-cat="{p['cat']}" data-region="{p['region']}" data-verified="{1 if p.get('verified') else 0}" href="{prefix}places/{p['slug']}.html">
+  <div class="pcard-media">{media}{vtag}</div>
   <div class="pcard-body">
     <span class="pcard-cat">{p['cat']}</span>
     <b>{html.escape(p['name'])}</b>
@@ -98,6 +102,10 @@ for i, p in enumerate(PLACES):
         rh = hero_of(r["slug"])
         rimg = f'<img src="../{rh["file"]}" alt="{html.escape(r["name"])}" loading="lazy">' if rh else f'<div style="height:110px;background:{CAT_GRAD.get(r["cat"],DEF_GRAD)}"></div>'
         rcards += f'<a class="rc" href="{r["slug"]}.html">{rimg}<div><span>{r["cat"]}</span><b>{html.escape(r["name"])}</b></div></a>'
+    vbadge = (f'<span class="vbadge">✦ Pronite Verified'
+              f'{" · " + html.escape(p["tier"]) if p.get("tier") else ""}</span>') if p.get("verified") else ""
+    expert_html = (f'<div class="expert"><div class="eh"><span>✦</span>Expert advice from Pronite</div>'
+                   f'<p>{html.escape(p["expert"])}</p></div>') if p.get("expert") else ""
     mapq = urllib.parse.quote(f"{p['name']} {p['city']} India")
     kws = ", ".join(p.get("tags", []) + [p["name"], p["city"], p["region"], "India", "places to visit", "travel guide"])
     og = f"https://www.pronite.in/{hero['file']}" if hero else "https://www.pronite.in/assets/icon-512.png"
@@ -106,6 +114,8 @@ for i, p in enumerate(PLACES):
         .replace("{NAME}", html.escape(p["name"]))
         .replace("{CITY}", html.escape(p["city"]))
         .replace("{REGION}", html.escape(p["region"]))
+        .replace("{VERIFIED_BADGE}", vbadge)
+        .replace("{EXPERT}", expert_html)
         .replace("{CAT}", p["cat"])
         .replace("{EXCERPT}", html.escape(p["excerpt"]))
         .replace("{HERO_CREDIT}", credit_line(hero))
@@ -130,8 +140,9 @@ regions = []
 for p in PLACES:
     if p["region"] not in regions:
         regions.append(p["region"])
-catchips = '<button class="chip active" data-f="all">All</button>' + "".join(
-    f'<button class="chip" data-f="{c}">{c}</button>' for c in cats)
+catchips = ('<button class="chip active" data-f="all">All</button>'
+    + '<button class="chip chip-v" data-f="verified">✦ Pronite Verified</button>'
+    + "".join(f'<button class="chip" data-f="{c}">{c}</button>' for c in cats))
 cards_html = "\n".join(card(p, prefix="../") for p in PLACES)
 
 INDEX = f'''<!DOCTYPE html>
@@ -182,6 +193,10 @@ nav a.back{{color:var(--dim);text-decoration:none;font-size:.78rem;letter-spacin
 .swatch{{width:100%;height:100%}}
 .pcard-body{{padding:16px 18px 20px;display:flex;flex-direction:column;flex:1}}
 .pcard-cat{{font-size:.64rem;letter-spacing:.15em;text-transform:uppercase;color:var(--amber);font-weight:700}}
+.pcard-media{{position:relative}}
+.pcard-verified{{position:absolute;top:10px;right:10px;z-index:2;font-size:.58rem;font-weight:700;letter-spacing:.1em;text-transform:uppercase;color:#0a0508;background:linear-gradient(100deg,#8c6b1f,#ffb347 50%,#f6e27a);padding:4px 9px;border-radius:100px}}
+.chip-v{{border-color:#ffb34766;color:var(--amber)}}
+.chip-v.active{{background:linear-gradient(100deg,#8c6b1f,#ffb347 55%,#f6e27a);color:#0a0508;border-color:transparent}}
 .pcard-body b{{font-family:'Krona One';font-size:.95rem;line-height:1.35;margin:9px 0 8px;color:var(--ink)}}
 .pcard-body p{{color:var(--dim);font-size:.85rem;line-height:1.55;flex:1}}
 .pcard-body em{{margin-top:12px;font-style:normal;font-size:.72rem;letter-spacing:.04em;color:#6f6c7b}}
@@ -217,7 +232,7 @@ const chips=document.querySelectorAll('.chip'),cards=document.querySelectorAll('
 chips.forEach(c=>c.addEventListener('click',()=>{{
   chips.forEach(x=>x.classList.remove('active'));c.classList.add('active');
   const f=c.dataset.f;let n=0;
-  cards.forEach(card=>{{const ok=f==='all'||card.dataset.cat===f;card.style.display=ok?'':'none';if(ok)n++;}});
+  cards.forEach(card=>{{const ok=f==='all'||(f==='verified'?card.dataset.verified==='1':card.dataset.cat===f);card.style.display=ok?'':'none';if(ok)n++;}});
   empty.style.display=n?'none':'block';
 }}));
 </script>

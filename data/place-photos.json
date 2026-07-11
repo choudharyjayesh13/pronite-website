@@ -3588,5 +3588,229 @@
     "source": "https://commons.wikimedia.org/wiki/File:Connaught_Place_in_the_nightlight.jpg"
    }
   ]
+ },
+ "taj-lake-palace-udaipur": {
+  "hero": {
+   "file": "assets/places/taj-lake-palace-udaipur.jpg",
+   "artist": "Navneet Sharma",
+   "license": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Taj_Lake_Palace_Udaipur_from_City_Palace.jpg"
+  },
+  "gallery": [
+   {
+    "file": "assets/places/taj-lake-palace-udaipur-g1.jpg",
+    "artist": "Daniel VILLAFRUELA",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Udaipur-Lac_Pichola-Jag_Niwas-20131013.jpg"
+   },
+   {
+    "file": "assets/places/taj-lake-palace-udaipur-g2.jpg",
+    "artist": "Mr. Debapriya Hore",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Taj_Lake_Palace,_Udaipur,_India.jpg"
+   },
+   {
+    "file": "assets/places/taj-lake-palace-udaipur-g3.jpg",
+    "artist": "Vyacheslav Argenberg",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Udaipur,_India,_Lake_Palace_on_Lake_Pichola.jpg"
+   }
+  ]
+ },
+ "oberoi-udaivilas-udaipur": {
+  "hero": {
+   "file": "assets/places/oberoi-udaivilas-udaipur.jpg",
+   "artist": "McKay Savage from London, UK",
+   "license": "CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:India_-_Udaipur_-_045_-_The_central_courtyear_of_the_Udaivilas_Oberoi_Resort_(1060223032).jpg"
+  },
+  "gallery": [
+   {
+    "file": "assets/places/oberoi-udaivilas-udaipur-g1.jpg",
+    "artist": "McKay Savage from London, UK",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:India_-_Udaipur_-_044_-_The_sprawling_Udaivilas_Oberoi_Resort_(1060187328).jpg"
+   },
+   {
+    "file": "assets/places/oberoi-udaivilas-udaipur-g2.jpg",
+    "artist": "Christopher Michel",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Oberoi_Udaivilas_garden_cascade_illuminated_(6373266525).jpg"
+   },
+   {
+    "file": "assets/places/oberoi-udaivilas-udaipur-g3.jpg",
+    "artist": "Amann 18 singh",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Oberoi_udaivilas.jpg"
+   }
+  ]
+ },
+ "rambagh-palace-jaipur": {
+  "hero": {
+   "file": "assets/places/rambagh-palace-jaipur.jpg",
+   "artist": "Chainwit.",
+   "license": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Rambagh_Palace_hotel_Jaipur_lobby_courtyard.jpg"
+  },
+  "gallery": [
+   {
+    "file": "assets/places/rambagh-palace-jaipur-g1.jpg",
+    "artist": "Sunnya343",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Rambagh_Palace_Jaipur_interior,_July_2016.jpg"
+   },
+   {
+    "file": "assets/places/rambagh-palace-jaipur-g2.jpg",
+    "artist": "Sunnya343",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Rambagh_Palace_view_from_garden,_July_2016_cropped.jpg"
+   },
+   {
+    "file": "assets/places/rambagh-palace-jaipur-g3.jpg",
+    "artist": "Sunnya343",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Rambagh_Palace_Jaipur_courtyard,_July_2016.jpg"
+   }
+  ]
+ },
+ "taj-mahal-palace-mumbai": {
+  "hero": {
+   "file": "assets/places/taj-mahal-palace-mumbai.jpg",
+   "artist": "iMahesh",
+   "license": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Architectural_Details_Balconies_and_Windows_of_Taj_Tower_Hotel,_Mumbai.jpg"
+  },
+  "gallery": [
+   {
+    "file": "assets/places/taj-mahal-palace-mumbai-g1.jpg",
+    "artist": "Joe Ravi",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Taj_Mahal_Palace_Hotel.jpg"
+   },
+   {
+    "file": "assets/places/taj-mahal-palace-mumbai-g2.jpg",
+    "artist": "Joe Ravi",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Smaller_Dome_of_Taj_Mahal_Palace_Hotel.jpg"
+   },
+   {
+    "file": "assets/places/taj-mahal-palace-mumbai-g3.jpg",
+    "artist": "Joe Ravi",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Main_Dome_of_Taj_Mahal_Palace_Hotel.jpg"
+   }
+  ]
+ },
+ "taj-falaknuma-hyderabad": {
+  "hero": {
+   "file": "assets/places/taj-falaknuma-hyderabad.jpg",
+   "artist": "Bernard Gagnon",
+   "license": "CC BY-SA 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Falaknuma_Palace_01.jpg"
+  },
+  "gallery": [
+   {
+    "file": "assets/places/taj-falaknuma-hyderabad-g1.jpg",
+    "artist": "Bernard Gagnon",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Falaknuma_Palace_07_-_Cannon.jpg"
+   },
+   {
+    "file": "assets/places/taj-falaknuma-hyderabad-g2.jpg",
+    "artist": "Bernard Gagnon",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Falaknuma_Palace_04.jpg"
+   },
+   {
+    "file": "assets/places/taj-falaknuma-hyderabad-g3.jpg",
+    "artist": "Bernard Gagnon",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Falaknuma_Palace_08.jpg"
+   }
+  ]
+ },
+ "the-imperial-delhi-high-tea": {
+  "hero": {
+   "file": "assets/places/the-imperial-delhi-high-tea.jpg",
+   "artist": "Boris Anthony",
+   "license": "CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Imperial_Hotel,_Delhi.jpg"
+  },
+  "gallery": [
+   {
+    "file": "assets/places/the-imperial-delhi-high-tea-g1.jpg",
+    "artist": "RndmCrs",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:The_Imperial,_New_Delhi.jpg"
+   },
+   {
+    "file": "assets/places/the-imperial-delhi-high-tea-g2.jpg",
+    "artist": "David Lisbona",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:A_shop_and_the_lounge_at_the_Imperial_Hotel,_New_Delhi.jpg"
+   },
+   {
+    "file": "assets/places/the-imperial-delhi-high-tea-g3.jpg",
+    "artist": "V Malik",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Buffet_spread_at_1911_restaurant,_the_Imperial_Hotel,_New_Delhi.jpg"
+   }
+  ]
+ },
+ "luxury-lounges-bars-india": {
+  "hero": {
+   "file": "assets/places/luxury-lounges-bars-india.jpg",
+   "artist": "Cididity Hat",
+   "license": "CC BY-SA 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Mumbai_Skyline_at_Night.jpg"
+  },
+  "gallery": [
+   {
+    "file": "assets/places/luxury-lounges-bars-india-g1.jpg",
+    "artist": "Vyacheslav Argenberg",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Mumbai,_India,_Bombay,_Mumbai_city_skyline_at_night.jpg"
+   },
+   {
+    "file": "assets/places/luxury-lounges-bars-india-g2.jpg",
+    "artist": "Mark0687 at en.wikipedia",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Mumbai_night_skyline.jpg"
+   },
+   {
+    "file": "assets/places/luxury-lounges-bars-india-g3.jpg",
+    "artist": "Av9",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Mumbai_Skyline_Marine_Drive_Night.jpg"
+   }
+  ]
+ },
+ "shiv-niwas-palace-udaipur": {
+  "hero": {
+   "file": "assets/places/shiv-niwas-palace-udaipur.jpg",
+   "artist": "Jakub Hałun",
+   "license": "CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Shiv_Niwas_Palace,_Udaipur,_20191207_1409_7147.jpg"
+  },
+  "gallery": [
+   {
+    "file": "assets/places/shiv-niwas-palace-udaipur-g1.jpg",
+    "artist": "Jakub Hałun",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Shiv_Niwas_Palace,_Udaipur,_20191207_1411_7156.jpg"
+   },
+   {
+    "file": "assets/places/shiv-niwas-palace-udaipur-g2.jpg",
+    "artist": "Jakub Hałun",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Shiv_Niwas_Palace,_Udaipur,_20191207_1408_7142.jpg"
+   },
+   {
+    "file": "assets/places/shiv-niwas-palace-udaipur-g3.jpg",
+    "artist": "Jakub Hałun",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Shiv_Niwas_Palace,_Udaipur,_20191207_1409_7149.jpg"
+   }
+  ]
  }
 }
