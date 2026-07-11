@@ -183,6 +183,20 @@ form.pf{background:#0b0b13cc;backdrop-filter:blur(6px);border:1px solid var(--li
 .pf .ok{display:none;text-align:center;padding:30px 10px}
 .pf .ok b{font-family:'Krona One';color:var(--amber);display:block;font-size:1.2rem;margin-bottom:8px}
 .viewers{display:inline-flex;align-items:center;gap:7px;font-size:.74rem;color:var(--dim);margin-top:18px}
+.bloggrid{display:grid;grid-template-columns:repeat(3,1fr);gap:20px}
+@media(max-width:820px){.bloggrid{grid-template-columns:1fr}}
+.pcard{display:flex;flex-direction:column;text-decoration:none;border:1px solid var(--line);border-radius:14px;overflow:hidden;background:var(--panel);transition:.22s}
+.pcard:hover{transform:translateY(-4px);border-color:var(--coral)}
+.pcard-media{aspect-ratio:16/10;overflow:hidden}
+.pcard-media img{width:100%;height:100%;object-fit:cover;display:block}
+.swatch{width:100%;height:100%;display:flex;align-items:center;justify-content:center}
+.swatch span{letter-spacing:.3em;font-size:1rem;color:rgba(255,255,255,.92)}
+.swatch em{color:#0a0508;font-style:normal;-webkit-text-stroke:.4px rgba(255,255,255,.8)}
+.pcard-body{padding:17px 18px 20px;display:flex;flex-direction:column;flex:1}
+.pcard-cat{font-size:.66rem;letter-spacing:.16em;text-transform:uppercase;color:var(--amber);font-weight:700}
+.pcard-body b{font-family:'Krona One';font-size:.95rem;line-height:1.35;margin:9px 0 8px;color:var(--ink)}
+.pcard-body p{color:var(--dim);font-size:.86rem;line-height:1.55;flex:1}
+.pcard-body em{margin-top:13px;font-style:normal;font-size:.74rem;letter-spacing:.05em;color:#6f6c7b}
 </style>
 </head>
 <body>
@@ -191,7 +205,7 @@ form.pf{background:#0b0b13cc;backdrop-filter:blur(6px);border:1px solid var(--li
 <nav><div class="wrap">
   <a class="logo krona" href="#top">PRO<em>NITE</em></a>
   <div class="nl">
-    <a href="#join">Join</a><a href="#next">Next Up</a><a href="#memories">Memories</a><a href="#membership">Membership</a><a href="#partners">Partners</a><a href="#about">About</a>
+    <a href="#join">Join</a><a href="#next">Next Up</a><a href="#memories">Memories</a><a href="blog/index.html">Journal</a><a href="#membership">Membership</a><a href="#partners">Partners</a><a href="#about">About</a>
     <a class="book" href="#join">Join Free</a>
   </div>
 </div></nav>
@@ -398,6 +412,41 @@ form.pf{background:#0b0b13cc;backdrop-filter:blur(6px);border:1px solid var(--li
   <figcaption><b>Afterallmusic All India Tour</b><span>December 2023</span></figcaption>
 </figure></a>
   </div>
+</div></section>
+
+<section id="journal" style="padding-top:0"><div class="wrap">
+  <div class="sh"><div class="kick">The Pronite Journal</div><h2>Stories from India's dancefloors</h2>
+  <p>Party recaps, city-by-city nightlife guides, festival previews and the culture behind the music — <b>104 stories</b> and growing, updated through 2026.</p></div>
+  <div class="bloggrid">
+<a class="pcard" data-cat="Upcoming" href="blog/indian-nightlife-outlook-2026.html">
+  <div class="pcard-media"><div class="swatch" style="background:linear-gradient(135deg,#2a0d12,#8a2b1a 55%,#ff7a3d)"><span class="krona">PRO<em>NITE</em></span></div></div>
+  <div class="pcard-body">
+    <span class="pcard-cat">Upcoming</span>
+    <b>The state of Indian nightlife in 2026: where the scene is headed</b>
+    <p>At the year&#x27;s midpoint, a look at the trends reshaping how India parties — and what comes next.</p>
+    <em>9 July 2026 · India</em>
+  </div>
+</a>
+<a class="pcard" data-cat="Upcoming" href="blog/pronite-monsoon-plans-2026.html">
+  <div class="pcard-media"><div class="swatch" style="background:linear-gradient(135deg,#2a0d12,#8a2b1a 55%,#ff7a3d)"><span class="krona">PRO<em>NITE</em></span></div></div>
+  <div class="pcard-body">
+    <span class="pcard-cat">Upcoming</span>
+    <b>What&#x27;s next for Pronite: building through the monsoon</b>
+    <p>A quieter season is a building season. A look at what we&#x27;re cooking up for the second half of 2026.</p>
+    <em>8 July 2026 · Udaipur</em>
+  </div>
+</a>
+<a class="pcard" data-cat="Upcoming" href="blog/planning-nye-2027-early.html">
+  <div class="pcard-media"><div class="swatch" style="background:linear-gradient(135deg,#2a0d12,#8a2b1a 55%,#ff7a3d)"><span class="krona">PRO<em>NITE</em></span></div></div>
+  <div class="pcard-body">
+    <span class="pcard-cat">Upcoming</span>
+    <b>It&#x27;s never too early: start planning New Year&#x27;s Eve now</b>
+    <p>The biggest night of the year sells out months ahead. Why July is the right time to lock your NYE plans.</p>
+    <em>7 July 2026 · India</em>
+  </div>
+</a>
+  </div>
+  <div style="text-align:center;margin-top:30px"><a class="btn btn-line" href="blog/index.html">Read the Journal →</a></div>
 </div></section>
 
 <section id="membership" style="background:var(--panel);border-top:1px solid var(--line);border-bottom:1px solid var(--line)"><div class="wrap">

@@ -41,5 +41,13 @@ page = page.replace("<!--MEMORY_CARDS-->", cards_html)
 featured = open(f"{ROOT}/data/featured.html", encoding="utf-8").read()
 page = page.replace("<!--FEATURED-->", featured)
 page = page.replace("<!--EVENT_COUNT-->", str(len(events)))
+# blog teaser (built by build_blog.py — run that first)
+try:
+    teaser = open(f"{ROOT}/data/blog-teaser.html", encoding="utf-8").read()
+    count = open(f"{ROOT}/data/blog-count.txt").read().strip()
+except FileNotFoundError:
+    teaser, count = "", "100+"
+page = page.replace("<!--BLOG_TEASER-->", teaser)
+page = page.replace("<!--BLOG_COUNT-->", count)
 open(f"{ROOT}/index.html", "w", encoding="utf-8").write(page)
 print(f"built index.html with {len(cards)} poster cards")
